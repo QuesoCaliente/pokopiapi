@@ -26,12 +26,10 @@ export async function buildApp() {
   await server.register(i18nPlugin);
   await server.register(swaggerPlugin);
 
-  // Routes (unversioned)
-  await server.register(healthRoutes);
-
   // API v1
   await server.register(
     async (v1) => {
+      await v1.register(healthRoutes);
       await v1.register(pokemonRoutes);
       await v1.register(itemRoutes);
     },
