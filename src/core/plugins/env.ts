@@ -9,6 +9,8 @@ const schema = {
     PORT: { type: 'number' as const, default: 3000 },
     HOST: { type: 'string' as const, default: '0.0.0.0' },
     LOG_LEVEL: { type: 'string' as const, default: 'info' },
+    POSTHOG_API_KEY: { type: 'string' as const, default: '' },
+    POSTHOG_HOST: { type: 'string' as const, default: 'https://us.i.posthog.com' },
   },
 };
 
@@ -18,6 +20,8 @@ declare module 'fastify' {
       PORT: number;
       HOST: string;
       LOG_LEVEL: string;
+      POSTHOG_API_KEY: string;
+      POSTHOG_HOST: string;
     };
   }
 }

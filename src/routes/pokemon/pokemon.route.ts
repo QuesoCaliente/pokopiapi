@@ -1,6 +1,13 @@
 import type { FastifyInstance } from 'fastify';
 import { pokemonQuerySchema } from '../../schemas/pokemon.js';
-import { findAll, findBySlug, findByNationalNumber, getFilters, getStats } from '../../data/pokemon-store.js';
+import {
+  findAll,
+  findBySlug,
+  findByNationalNumber,
+  getFilters,
+  getStats,
+} from '../../data/pokemon-store.js';
+import { posthog } from '../../core/posthog.js';
 
 export default async function pokemonRoutes(server: FastifyInstance) {
   // GET /pokemon - List with filters and pagination
@@ -13,11 +20,20 @@ export default async function pokemonRoutes(server: FastifyInstance) {
         properties: {
           type: { type: 'string', description: 'Filter by type (e.g., Fuego, Planta)' },
           specialty: { type: 'string', description: 'Filter by specialty (e.g., Quemar, Volar)' },
-          classification: { type: 'string', description: 'Filter by classification (comun, evento)' },
-          climate: { type: 'string', description: 'Filter by climate (Soleado, Nublado, Lluvioso)' },
+          classification: {
+            type: 'string',
+            description: 'Filter by classification (comun, evento)',
+          },
+          climate: {
+            type: 'string',
+            description: 'Filter by climate (Soleado, Nublado, Lluvioso)',
+          },
           zone: { type: 'string', description: 'Filter by spawn zone' },
           habitat: { type: 'string', description: 'Filter by habitat name' },
-          produces: { type: 'string', description: 'Filter by material produced (e.g., Hoja, Piedra, Hilo)' },
+          produces: {
+            type: 'string',
+            description: 'Filter by material produced (e.g., Hoja, Piedra, Hilo)',
+          },
           search: { type: 'string', description: 'Search by name or number' },
           page: { type: 'integer', default: 1, minimum: 1 },
           limit: { type: 'integer', default: 20, minimum: 1, maximum: 100 },
@@ -26,7 +42,27 @@ export default async function pokemonRoutes(server: FastifyInstance) {
     },
     handler: async (request) => {
       const query = pokemonQuerySchema.parse(request.query);
-      return findAll(query);
+      const result = findAll(query);
+      const distinctId =
+        (request.headers['x-posthog-distinct-id'] as string | undefined) ?? 'anonymous';
+      posthog.capture({
+        distinctId,
+        event: 'pokemon_searched',
+        properties: {
+          type: query.type ?? null,
+          specialty: query.specialty ?? null,
+          classification: query.classification ?? null,
+          climate: query.climate ?? null,
+          zone: query.zone ?? null,
+          habitat: query.habitat ?? null,
+          produces: query.produces ?? null,
+          search: query.search ?? null,
+          page: query.page,
+          limit: query.limit,
+          result_count: result.pagination.total,
+        },
+      });
+      return result;
     },
   });
 
@@ -36,7 +72,10 @@ export default async function pokemonRoutes(server: FastifyInstance) {
       tags: ['Pokemon'],
       description: 'Get all available filter values',
     },
-    handler: async () => {
+    handler: async (request) => {
+      const distinctId =
+        (request.headers['x-posthog-distinct-id'] as string | undefined) ?? 'anonymous';
+      posthog.capture({ distinctId, event: 'pokemon_filters_fetched' });
       return getFilters();
     },
   });
@@ -47,7 +86,10 @@ export default async function pokemonRoutes(server: FastifyInstance) {
       tags: ['Pokemon'],
       description: 'Get Pokedex statistics',
     },
-    handler: async () => {
+    handler: async (request) => {
+      const distinctId =
+        (request.headers['x-posthog-distinct-id'] as string | undefined) ?? 'anonymous';
+      posthog.capture({ distinctId, event: 'pokemon_stats_fetched' });
       return getStats();
     },
   });
@@ -75,18 +117,49 @@ export default async function pokemonRoutes(server: FastifyInstance) {
     },
     handler: async (request, reply) => {
       const { slugOrNumber } = request.params;
+      const distinctId =
+        (request.headers['x-posthog-distinct-id'] as string | undefined) ?? 'anonymous';
 
       // Try as number first
       const asNumber = parseInt(slugOrNumber);
       if (!isNaN(asNumber)) {
         const pokemon = findByNationalNumber(asNumber);
-        if (pokemon) return pokemon;
+        if (pokemon) {
+          posthog.capture({
+            distinctId,
+            event: 'pokemon_detail_viewed',
+            properties: {
+              lookup: 'national_number',
+              value: asNumber,
+              slug: pokemon.slug,
+              name: pokemon.name,
+            },
+          });
+          return pokemon;
+        }
       }
 
       // Try as slug
       const pokemon = findBySlug(slugOrNumber);
-      if (pokemon) return pokemon;
+      if (pokemon) {
+        posthog.capture({
+          distinctId,
+          event: 'pokemon_detail_viewed',
+          properties: {
+            lookup: 'slug',
+            value: slugOrNumber,
+            slug: pokemon.slug,
+            name: pokemon.name,
+          },
+        });
+        return pokemon;
+      }
 
+      posthog.capture({
+        distinctId,
+        event: 'pokemon_not_found',
+        properties: { query: slugOrNumber },
+      });
       return reply.status(404).send({ error: `Pokemon "${slugOrNumber}" not found` });
     },
   });
