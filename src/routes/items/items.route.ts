@@ -1,7 +1,7 @@
 import type { FastifyInstance } from 'fastify';
 import { itemQuerySchema } from '../../schemas/item.js';
 import { findAll, findBySlug, getFilters, getStats } from '../../data/item-store.js';
-import { posthog } from '../../core/posthog.js';
+import { trackEvent } from '../../core/posthog.js';
 
 export default async function itemRoutes(server: FastifyInstance) {
   // GET /items - List with filters and pagination
@@ -24,20 +24,14 @@ export default async function itemRoutes(server: FastifyInstance) {
     handler: async (request) => {
       const query = itemQuerySchema.parse(request.query);
       const result = findAll(query);
-      const distinctId =
-        (request.headers['x-posthog-distinct-id'] as string | undefined) ?? 'anonymous';
-      posthog.capture({
-        distinctId,
-        event: 'item_searched',
-        properties: {
-          category: query.category ?? null,
-          tag: query.tag ?? null,
-          search: query.search ?? null,
-          hasImage: query.hasImage ?? null,
-          page: query.page,
-          limit: query.limit,
-          result_count: result.pagination.total,
-        },
+      trackEvent(request, 'item_searched', {
+        category: query.category ?? null,
+        tag: query.tag ?? null,
+        search: query.search ?? null,
+        hasImage: query.hasImage ?? null,
+        page: query.page,
+        limit: query.limit,
+        result_count: result.pagination.total,
       });
       return result;
     },
@@ -50,9 +44,7 @@ export default async function itemRoutes(server: FastifyInstance) {
       description: 'Get all available filter values for items',
     },
     handler: async (request) => {
-      const distinctId =
-        (request.headers['x-posthog-distinct-id'] as string | undefined) ?? 'anonymous';
-      posthog.capture({ distinctId, event: 'item_filters_fetched' });
+      trackEvent(request, 'item_filters_fetched');
       return getFilters();
     },
   });
@@ -64,9 +56,7 @@ export default async function itemRoutes(server: FastifyInstance) {
       description: 'Get item statistics by category',
     },
     handler: async (request) => {
-      const distinctId =
-        (request.headers['x-posthog-distinct-id'] as string | undefined) ?? 'anonymous';
-      posthog.capture({ distinctId, event: 'item_stats_fetched' });
+      trackEvent(request, 'item_stats_fetched');
       return getStats();
     },
   });
@@ -94,28 +84,18 @@ export default async function itemRoutes(server: FastifyInstance) {
     },
     handler: async (request, reply) => {
       const { slug } = request.params;
-      const distinctId =
-        (request.headers['x-posthog-distinct-id'] as string | undefined) ?? 'anonymous';
 
       const item = findBySlug(slug);
       if (item) {
-        posthog.capture({
-          distinctId,
-          event: 'item_detail_viewed',
-          properties: {
-            slug: item.slug,
-            name: item.name,
-            category: item.category,
-          },
+        trackEvent(request, 'item_detail_viewed', {
+          slug: item.slug,
+          name: item.name,
+          category: item.category,
         });
         return { experimental: true, data: item };
       }
 
-      posthog.capture({
-        distinctId,
-        event: 'item_not_found',
-        properties: { query: slug },
-      });
+      trackEvent(request, 'item_not_found', { query: slug });
       return reply.status(404).send({ error: `Item "${slug}" not found` });
     },
   });

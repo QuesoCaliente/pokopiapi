@@ -1,6 +1,6 @@
 import fp from 'fastify-plugin';
 import type { FastifyInstance, FastifyError } from 'fastify';
-import { posthog } from '../posthog.js';
+import { posthog, trackEvent } from '../posthog.js';
 
 export default fp(async (server: FastifyInstance) => {
   server.setErrorHandler((error: FastifyError, request, reply) => {
@@ -10,10 +10,12 @@ export default fp(async (server: FastifyInstance) => {
       server.log.error(error);
       const distinctId =
         (request.headers['x-posthog-distinct-id'] as string | undefined) ?? 'anonymous';
+      const origin = request.headers.origin ?? request.headers.referer ?? 'unknown';
       posthog.captureException(error, distinctId, {
         status_code: statusCode,
         url: request.url,
         method: request.method,
+        origin,
       });
     }
 
