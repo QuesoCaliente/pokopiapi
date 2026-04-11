@@ -1,9 +1,19 @@
 import { PostHog } from 'posthog-node';
 
-export const posthog = new PostHog(process.env.POSTHOG_API_KEY!, {
-  host: process.env.POSTHOG_HOST,
-  enableExceptionAutocapture: true,
-});
+const apiKey = process.env.POSTHOG_API_KEY;
+
+const noop = {
+  capture: () => {},
+  captureException: () => {},
+  shutdown: async () => {},
+} as unknown as PostHog;
+
+export const posthog = apiKey
+  ? new PostHog(apiKey, {
+      host: process.env.POSTHOG_HOST,
+      enableExceptionAutocapture: true,
+    })
+  : noop;
 
 process.on('SIGINT', async () => {
   await posthog.shutdown();
