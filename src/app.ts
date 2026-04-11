@@ -21,7 +21,7 @@ export async function buildApp() {
   await server.register(compressPlugin);
   await server.register(errorHandlerPlugin);
   await server.register(cachePlugin);
-  // await server.register(swaggerPlugin);
+  await server.register(swaggerPlugin);
 
   // Routes (unversioned)
   await server.register(healthRoutes);
