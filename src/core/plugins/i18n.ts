@@ -289,10 +289,18 @@ function translateStats(stats: Record<string, unknown>, route: 'pokemon' | 'item
   return stats;
 }
 
-function parseLocale(header: string | undefined): Locale {
-  if (!header) return 'es';
-  const primary = header.split(',')[0].trim().toLowerCase();
-  if (primary.startsWith('en')) return 'en';
+function parseLocale(url: string, header: string | undefined): Locale {
+  // 1. Query param ?lang= takes priority
+  const match = url.match(/[?&]lang=(es|en)\b/i);
+  if (match) return match[1].toLowerCase() as Locale;
+
+  // 2. Accept-Language header as fallback
+  if (header) {
+    const primary = header.split(',')[0].trim().toLowerCase();
+    if (primary.startsWith('en')) return 'en';
+  }
+
+  // 3. Default to Spanish
   return 'es';
 }
 
@@ -319,7 +327,7 @@ export default fp(async (server: FastifyInstance) => {
     const { resource, endpoint } = detectRoute(request.url);
     if (!resource || !endpoint) return payload;
 
-    const locale = parseLocale(request.headers['accept-language']);
+    const locale = parseLocale(request.url, request.headers['accept-language']);
     const t = locale === 'en' ? en : es;
 
     // If pokemon data is already in ES and locale is ES, skip translation

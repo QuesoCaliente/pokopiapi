@@ -11,12 +11,16 @@ export default fp(async (server: FastifyInstance) => {
         description:
           'Public API for the Pokopia Pokedex. Rate limited to 100 requests/minute.\n\n' +
           '## Internationalization (i18n)\n\n' +
-          'All endpoints support the `Accept-Language` header to get responses in **Spanish** or **English**.\n\n' +
-          '| Header value | Language |\n' +
+          'All endpoints support two ways to set the response language:\n\n' +
+          '### Option 1: Query parameter (recommended)\n\n' +
+          '`?lang=en` or `?lang=es`\n\n' +
+          '### Option 2: Accept-Language header\n\n' +
+          '`Accept-Language: en` or `Accept-Language: es`\n\n' +
+          '**Priority:** `?lang=` > `Accept-Language` header > default (`es`)\n\n' +
+          '| Value | Language |\n' +
           '|---|---|\n' +
           '| `es` (default) | Spanish |\n' +
-          '| `en` | English |\n\n' +
-          'Example: `Accept-Language: en`',
+          '| `en` | English |',
         version: '1.0.0',
       },
       servers: [
