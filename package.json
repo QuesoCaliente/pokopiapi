@@ -17,7 +17,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "BSD-3-Clause",
   "type": "module",
   "dependencies": {
     "@fastify/compress": "^8.3.1",
