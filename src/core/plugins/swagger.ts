@@ -40,24 +40,26 @@ export default fp(async (server: FastifyInstance) => {
     routePrefix: '/docs',
   });
 
-  // Inject Accept-Language header parameter into all API routes
+  // Inject Accept-Language header into OpenAPI spec (documentation only, no validation)
   server.addHook('onRoute', (routeOptions) => {
     if (!routeOptions.url.startsWith('/api/')) return;
 
     const schema = routeOptions.schema ?? {};
+    const existingHeaders =
+      schema.headers && typeof schema.headers === 'object' && 'properties' in schema.headers
+        ? (schema.headers as Record<string, unknown>).properties as Record<string, unknown>
+        : {};
+
     routeOptions.schema = {
       ...schema,
       headers: {
         type: 'object' as const,
         properties: {
-          ...(schema.headers && typeof schema.headers === 'object' && 'properties' in schema.headers
-            ? (schema.headers as Record<string, unknown>).properties as Record<string, unknown>
-            : {}),
+          ...existingHeaders,
           'Accept-Language': {
             type: 'string',
-            enum: ['es', 'en'],
             default: 'es',
-            description: 'Response language (es = Spanish, en = English)',
+            description: 'Response language: es (Spanish, default) or en (English)',
           },
         },
       },
