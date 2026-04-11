@@ -20,6 +20,7 @@ COPY --from=builder /app/dist ./dist
 COPY src/data/pokemon.json ./dist/data/pokemon.json
 COPY src/data/items.json ./dist/data/items.json
 COPY src/data/translations ./dist/data/translations
+COPY src/public ./dist/public
 
 ENV NODE_ENV=production
 ENV PORT=3000

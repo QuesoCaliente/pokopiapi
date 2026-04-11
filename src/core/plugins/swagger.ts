@@ -2,6 +2,8 @@ import fp from 'fastify-plugin';
 import fastifySwagger from '@fastify/swagger';
 import fastifySwaggerUi from '@fastify/swagger-ui';
 import type { FastifyInstance } from 'fastify';
+import { readFileSync } from 'node:fs';
+import { resolve } from 'node:path';
 
 export default fp(async (server: FastifyInstance) => {
   await server.register(fastifySwagger, {
@@ -40,8 +42,18 @@ export default fp(async (server: FastifyInstance) => {
     },
   });
 
+  const logoPath = resolve(import.meta.dirname!, '../../public/images/logo.png');
+  const logoContent = readFileSync(logoPath);
+
   await server.register(fastifySwaggerUi, {
     routePrefix: '/docs',
+    logo: {
+      type: 'image/png',
+      content: logoContent,
+    },
+    theme: {
+      title: 'Pokopia API Docs',
+    },
   });
 
   // Inject Accept-Language header into OpenAPI spec (documentation only, no validation)
