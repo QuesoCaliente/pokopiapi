@@ -18915,47 +18915,62 @@
       "number": "214",
       "name": "kadabra"
     },
-    "nextEvolution": {
-      "number": "216",
-      "name": "mime-jr"
-    },
+    "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/alakazam.png",
     "produces": null
   },
   {
     "localNumber": "216",
-    "nationalNumber": 1,
-    "name": "Pokédex Regional de Pokopia",
+    "nationalNumber": 439,
+    "name": "Mime Jr.",
     "slug": "mime-jr",
-    "types": [],
+    "types": [
+      {
+        "name": "Psíquico",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
+      },
+      {
+        "name": "Hada",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/fairy.png"
+      }
+    ],
     "specialties": [
       {
         "name": "Organizar",
         "iconUrl": "https://cdn.pokopiapi.com/images/specialties/organize.png"
       }
     ],
-    "height": 0,
-    "weight": 0,
+    "height": 0.6,
+    "weight": 13,
     "idealEnvironment": "",
     "classification": "comun",
     "habitats": [],
     "climates": [],
     "timeAvailability": [],
     "spawnZones": [],
-    "previousEvolution": {
-      "number": "001",
-      "name": "Bulbasaur"
+    "previousEvolution": null,
+    "nextEvolution": {
+      "number": "217",
+      "name": "mr-mime"
     },
-    "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mime-jr.png",
     "produces": null
   },
   {
     "localNumber": "217",
-    "nationalNumber": 1,
-    "name": "Pokédex Regional de Pokopia",
+    "nationalNumber": 122,
+    "name": "Mr. Mime",
     "slug": "mr-mime",
-    "types": [],
+    "types": [
+      {
+        "name": "Psíquico",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
+      },
+      {
+        "name": "Hada",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/fairy.png"
+      }
+    ],
     "specialties": [
       {
         "name": "Organizar",
@@ -18966,8 +18981,8 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/specialties/build.png"
       }
     ],
-    "height": 0,
-    "weight": 0,
+    "height": 1.3,
+    "weight": 54.5,
     "idealEnvironment": "",
     "classification": "comun",
     "habitats": [],
@@ -18975,8 +18990,8 @@
     "timeAvailability": [],
     "spawnZones": [],
     "previousEvolution": {
-      "number": "001",
-      "name": "Bulbasaur"
+      "number": "216",
+      "name": "mime-jr"
     },
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mr-mime.png",
