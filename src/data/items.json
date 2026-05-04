@@ -27637,5 +27637,125 @@
       "Palette Town (Treasure)"
     ],
     "craftingRecipe": null
+  },
+  {
+    "name": "Digital camera",
+    "slug": "digital-camera",
+    "description": "A handy digital camera. Perfect for capturing memories of your adventures with Pokémon.",
+    "category": "furniture",
+    "tag": "Decoration",
+    "imageUrl": "https://cdn.pokopiapi.com/images/items/digital-camera.png",
+    "locations": [
+      "Sableye's Gem Hunt Event Shop"
+    ],
+    "craftingRecipe": null
+  },
+  {
+    "name": "Map and compass",
+    "slug": "map-and-compass",
+    "description": "A detailed map paired with a trusty compass. Essential for any treasure hunter's adventure.",
+    "category": "furniture",
+    "tag": "Decoration",
+    "imageUrl": "https://cdn.pokopiapi.com/images/items/map-and-compass.png",
+    "locations": [
+      "Sableye's Gem Hunt Event Shop"
+    ],
+    "craftingRecipe": null
+  },
+  {
+    "name": "Oil lantern",
+    "slug": "oil-lantern",
+    "description": "An old-fashioned oil lantern. Handy for lighting up dark spaces and cave explorations.",
+    "category": "outdoor",
+    "tag": "Relaxation",
+    "imageUrl": "https://cdn.pokopiapi.com/images/items/oil-lantern.png",
+    "locations": [
+      "Sableye's Gem Hunt Event Shop"
+    ],
+    "craftingRecipe": null
+  },
+  {
+    "name": "Sleeping bag",
+    "slug": "sleeping-bag",
+    "description": "A cozy sleeping bag for resting outdoors. Pokémon love curling up next to it.",
+    "category": "furniture",
+    "tag": "Relaxation",
+    "imageUrl": "https://cdn.pokopiapi.com/images/items/sleeping-bag.png",
+    "locations": [
+      "Sableye's Gem Hunt Event Shop"
+    ],
+    "craftingRecipe": null
+  },
+  {
+    "name": "Jewel wall decoration",
+    "slug": "jewel-wall-decoration",
+    "description": "A set of sparkling gem-encrusted wall decorations. They shimmer beautifully in the light.",
+    "category": "furniture",
+    "tag": "Decoration",
+    "imageUrl": "https://cdn.pokopiapi.com/images/items/jewel-wall-decoration.png",
+    "locations": [
+      "Sableye's Gem Hunt Event Shop"
+    ],
+    "craftingRecipe": null
+  },
+  {
+    "name": "Camping chair",
+    "slug": "camping-chair",
+    "description": "A foldable camping chair. Great for sitting around the campfire after a long day of exploring.",
+    "category": "outdoor",
+    "tag": "Relaxation",
+    "imageUrl": "https://cdn.pokopiapi.com/images/items/camping-chair.png",
+    "locations": [
+      "Sableye's Gem Hunt Event Shop"
+    ],
+    "craftingRecipe": null
+  },
+  {
+    "name": "Camping cooking pot",
+    "slug": "camping-cooking-pot",
+    "description": "A sturdy cooking pot for preparing meals outdoors. Makes delicious campfire stew.",
+    "category": "outdoor",
+    "tag": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/items/camping-cooking-pot.png",
+    "locations": [
+      "Sableye's Gem Hunt Event Shop"
+    ],
+    "craftingRecipe": null
+  },
+  {
+    "name": "Pile of treasure",
+    "slug": "pile-of-treasure",
+    "description": "A glittering pile of gems and precious items. Sableye would be very interested in this.",
+    "category": "furniture",
+    "tag": "Decoration",
+    "imageUrl": "https://cdn.pokopiapi.com/images/items/pile-of-treasure.png",
+    "locations": [
+      "Sableye's Gem Hunt Event Shop"
+    ],
+    "craftingRecipe": null
+  },
+  {
+    "name": "Adventure kit",
+    "slug": "adventure-kit",
+    "description": "A complete adventurer's kit with everything you need for a treasure hunt. Core piece of the Treasure-Hunting Set habitat.",
+    "category": "kits",
+    "tag": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/items/adventure-kit.png",
+    "locations": [
+      "Sableye's Gem Hunt Event Shop"
+    ],
+    "craftingRecipe": null
+  },
+  {
+    "name": "Tent kit",
+    "slug": "tent-kit",
+    "description": "A pre-built shelter that works for multiple Pokémon. Perfect for camping adventures.",
+    "category": "kits",
+    "tag": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/items/tent-kit.png",
+    "locations": [
+      "Sableye's Gem Hunt Event Shop"
+    ],
+    "craftingRecipe": null
   }
 ]

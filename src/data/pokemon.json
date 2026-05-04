@@ -25990,5 +25990,87 @@
       "name": "Pelusa",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/fluff.png"
     }
+  },
+  {
+    "localNumber": "E004",
+    "nationalNumber": 302,
+    "name": "Sableye",
+    "slug": "sableye",
+    "types": [
+      {
+        "name": "Siniestro",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/dark.png"
+      },
+      {
+        "name": "Fantasma",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/ghost.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Rastrear",
+        "iconUrl": "https://cdn.pokopiapi.com/images/specialties/track.png"
+      }
+    ],
+    "height": 0.5,
+    "weight": 11,
+    "idealEnvironment": "Oscuro",
+    "classification": "evento",
+    "habitats": [
+      {
+        "name": "Set de cazatesoros",
+        "rarity": 1,
+        "iconUrl": "https://cdn.pokopiapi.com/images/habitats/treasure-hunting-set.png"
+      },
+      {
+        "name": "Cueva oscura",
+        "rarity": 2,
+        "iconUrl": "https://cdn.pokopiapi.com/images/habitats/dark-cave.png"
+      }
+    ],
+    "climates": [
+      {
+        "name": "Soleado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/sunny.png"
+      },
+      {
+        "name": "Nublado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/cloudy.png"
+      },
+      {
+        "name": "Lluvioso",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/rainy.png"
+      }
+    ],
+    "timeAvailability": [
+      {
+        "name": "Mañana",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/morning.png"
+      },
+      {
+        "name": "Día",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/day.png"
+      },
+      {
+        "name": "Tarde",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/afternoon.png"
+      },
+      {
+        "name": "Noche",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
+      }
+    ],
+    "spawnZones": [
+      "Estepa Estéril",
+      "Bahía Borrasca",
+      "Riscos Rocosos",
+      "Islas aisladas",
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/sableye.png",
+    "produces": null
   }
 ]

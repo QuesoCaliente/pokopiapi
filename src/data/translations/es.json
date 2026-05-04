@@ -292,7 +292,9 @@
       "winged-fossil-exhibit": "Exposición de fósil alado",
       "work-desk": "Escritorio de trabajo",
       "yellow-grassland": "Herbazal amarillo",
-      "yellow-grassland-in-mudflat": "Herbazal amarillo en lodazal"
+      "yellow-grassland-in-mudflat": "Herbazal amarillo en lodazal",
+      "treasure-hunting-set": "Set de cazatesoros",
+      "dark-cave": "Cueva oscura"
     },
     "idealEnvironments": {
       "dark": "Oscuro",
@@ -1978,7 +1980,17 @@
       "zig-zag-print": "Su diseño de espirales recuerda ligeramente a las marcas que tiene Serperior.",
       "zig-zag-print-wallpaper": "Un papel con el que decorar las paredes, el suelo o el techo de casas a partir de cierto tamaño.",
       "zoom-lens-lost-relics-s": "Una lente que nunca se empaña. ¡Prueba a enmarcarla!",
-      "zoom-lens-other": "Una lente que nunca se empaña. ¡Prueba a enmarcarla!"
+      "zoom-lens-other": "Una lente que nunca se empaña. ¡Prueba a enmarcarla!",
+      "digital-camera": "Una práctica cámara digital. Perfecta para capturar recuerdos de tus aventuras con Pokémon.",
+      "map-and-compass": "Un mapa detallado junto con una brújula confiable. Esencial para cualquier aventura de cazatesoros.",
+      "oil-lantern": "Un farol de aceite antiguo. Ideal para iluminar espacios oscuros y explorar cuevas.",
+      "sleeping-bag": "Un cómodo saco de dormir para descansar al aire libre. A los Pokémon les encanta acurrucarse junto a él.",
+      "jewel-wall-decoration": "Un conjunto de decoraciones de pared con gemas incrustadas. Brillan hermosamente con la luz.",
+      "camping-chair": "Una silla plegable de acampada. Ideal para sentarse junto a la fogata después de un largo día de exploración.",
+      "camping-cooking-pot": "Una olla resistente para cocinar al aire libre. Prepara deliciosos guisos de fogata.",
+      "pile-of-treasure": "Un montón reluciente de gemas y objetos preciosos. A Sableye le interesaría mucho esto.",
+      "adventure-kit": "Un kit completo de aventurero con todo lo necesario para una caza del tesoro. Pieza central del hábitat Set de cazatesoros.",
+      "tent-kit": "Un refugio prefabricado que funciona para varios Pokémon. Perfecto para aventuras de acampada."
     },
     "locations": {
       "abandoned-power-plant-kit": [
@@ -8844,6 +8856,36 @@
       "zoom-lens-other": [
         "Tasación de una reliquia",
         "En terreno brillante"
+      ],
+      "digital-camera": [
+        "Tienda del evento Caza de Gemas de Sableye"
+      ],
+      "map-and-compass": [
+        "Tienda del evento Caza de Gemas de Sableye"
+      ],
+      "oil-lantern": [
+        "Tienda del evento Caza de Gemas de Sableye"
+      ],
+      "sleeping-bag": [
+        "Tienda del evento Caza de Gemas de Sableye"
+      ],
+      "jewel-wall-decoration": [
+        "Tienda del evento Caza de Gemas de Sableye"
+      ],
+      "camping-chair": [
+        "Tienda del evento Caza de Gemas de Sableye"
+      ],
+      "camping-cooking-pot": [
+        "Tienda del evento Caza de Gemas de Sableye"
+      ],
+      "pile-of-treasure": [
+        "Tienda del evento Caza de Gemas de Sableye"
+      ],
+      "adventure-kit": [
+        "Tienda del evento Caza de Gemas de Sableye"
+      ],
+      "tent-kit": [
+        "Tienda del evento Caza de Gemas de Sableye"
       ]
     },
     "names": {
@@ -10361,7 +10403,17 @@
       "zig-zag-print": "Bloque arabesco vegetal",
       "zig-zag-print-wallpaper": "Papel \"irregular\"",
       "zoom-lens-lost-relics-s": "Telescopio",
-      "zoom-lens-other": "Telescopio"
+      "zoom-lens-other": "Telescopio",
+      "digital-camera": "Cámara digital",
+      "map-and-compass": "Mapa y brújula",
+      "oil-lantern": "Farol de aceite",
+      "sleeping-bag": "Saco de dormir",
+      "jewel-wall-decoration": "Decoración de pared con gemas",
+      "camping-chair": "Silla de acampada",
+      "camping-cooking-pot": "Olla de cocina para acampada",
+      "pile-of-treasure": "Montón de tesoro",
+      "adventure-kit": "Kit de aventura",
+      "tent-kit": "Kit de tienda de campaña"
     },
     "tags": {
       "decoration": "Decoración",
