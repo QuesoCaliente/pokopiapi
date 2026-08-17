@@ -69,12 +69,15 @@ function translatePokemonValue(
   return esValue;
 }
 
-function translatePokemon(pokemon: Record<string, unknown>, t: Translations): Record<string, unknown> {
+function translatePokemon(
+  pokemon: Record<string, unknown>,
+  t: Translations,
+): Record<string, unknown> {
   const p = { ...pokemon };
 
   // types
   if (Array.isArray(p.types)) {
-    p.types = (p.types as Array<{ name: string; iconUrl: string }>).map((item) => ({
+    p.types = (p.types as Array<{ name: string; iconUrl: string | null }>).map((item) => ({
       ...item,
       name: translatePokemonValue(item.name, esTypeReverse, t.pokemon.types),
     }));
@@ -82,20 +85,26 @@ function translatePokemon(pokemon: Record<string, unknown>, t: Translations): Re
 
   // specialties
   if (Array.isArray(p.specialties)) {
-    p.specialties = (p.specialties as Array<{ name: string; iconUrl: string }>).map((item) => ({
-      ...item,
-      name: translatePokemonValue(item.name, esSpecialtyReverse, t.pokemon.specialties),
-    }));
+    p.specialties = (p.specialties as Array<{ name: string; iconUrl: string | null }>).map(
+      (item) => ({
+        ...item,
+        name: translatePokemonValue(item.name, esSpecialtyReverse, t.pokemon.specialties),
+      }),
+    );
   }
 
   // classification
   if (typeof p.classification === 'string') {
-    p.classification = translatePokemonValue(p.classification, esClassificationReverse, t.pokemon.classifications);
+    p.classification = translatePokemonValue(
+      p.classification,
+      esClassificationReverse,
+      t.pokemon.classifications,
+    );
   }
 
   // climates
   if (Array.isArray(p.climates)) {
-    p.climates = (p.climates as Array<{ name: string; iconUrl: string }>).map((item) => ({
+    p.climates = (p.climates as Array<{ name: string; iconUrl: string | null }>).map((item) => ({
       ...item,
       name: translatePokemonValue(item.name, esClimateReverse, t.pokemon.climates),
     }));
@@ -103,7 +112,9 @@ function translatePokemon(pokemon: Record<string, unknown>, t: Translations): Re
 
   // timeAvailability
   if (Array.isArray(p.timeAvailability)) {
-    p.timeAvailability = (p.timeAvailability as Array<{ name: string; iconUrl: string }>).map((item) => ({
+    p.timeAvailability = (
+      p.timeAvailability as Array<{ name: string; iconUrl: string | null }>
+    ).map((item) => ({
       ...item,
       name: translatePokemonValue(item.name, esTimeReverse, t.pokemon.time),
     }));
@@ -111,7 +122,9 @@ function translatePokemon(pokemon: Record<string, unknown>, t: Translations): Re
 
   // habitats
   if (Array.isArray(p.habitats)) {
-    p.habitats = (p.habitats as Array<{ name: string; rarity: number; iconUrl: string }>).map((item) => ({
+    p.habitats = (
+      p.habitats as Array<{ name: string; rarity: number | null; iconUrl: string | null }>
+    ).map((item) => ({
       ...item,
       name: translatePokemonValue(item.name, esHabitatReverse, t.pokemon.habitats),
     }));
@@ -119,19 +132,23 @@ function translatePokemon(pokemon: Record<string, unknown>, t: Translations): Re
 
   // spawnZones
   if (Array.isArray(p.spawnZones)) {
-    p.spawnZones = (p.spawnZones as string[]).map(
-      (zone) => translatePokemonValue(zone, esSpawnZoneReverse, t.pokemon.spawnZones),
+    p.spawnZones = (p.spawnZones as string[]).map((zone) =>
+      translatePokemonValue(zone, esSpawnZoneReverse, t.pokemon.spawnZones),
     );
   }
 
   // idealEnvironment
   if (typeof p.idealEnvironment === 'string') {
-    p.idealEnvironment = translatePokemonValue(p.idealEnvironment, esIdealEnvReverse, t.pokemon.idealEnvironments);
+    p.idealEnvironment = translatePokemonValue(
+      p.idealEnvironment,
+      esIdealEnvReverse,
+      t.pokemon.idealEnvironments,
+    );
   }
 
   // produces
   if (p.produces && typeof p.produces === 'object') {
-    const prod = p.produces as { name: string; iconUrl: string };
+    const prod = p.produces as { name: string; iconUrl: string | null };
     p.produces = {
       ...prod,
       name: translatePokemonValue(prod.name, esProducesReverse, t.pokemon.produces),
@@ -175,7 +192,14 @@ function translateItem(item: Record<string, unknown>, t: Translations): Record<s
 
   // craftingRecipe
   if (Array.isArray(i.craftingRecipe)) {
-    i.craftingRecipe = (i.craftingRecipe as Array<{ name: string; slug: string; quantity: number; iconUrl: string | null }>).map((mat) => ({
+    i.craftingRecipe = (
+      i.craftingRecipe as Array<{
+        name: string;
+        slug: string;
+        quantity: number;
+        iconUrl: string | null;
+      }>
+    ).map((mat) => ({
       ...mat,
       name: t.items.craftingMaterials[mat.slug] ?? mat.name,
     }));
@@ -184,48 +208,56 @@ function translateItem(item: Record<string, unknown>, t: Translations): Record<s
   return i;
 }
 
-function translateFilters(filters: Record<string, unknown>, route: 'pokemon' | 'items', t: Translations): Record<string, unknown> {
+function translateFilters(
+  filters: Record<string, unknown>,
+  route: 'pokemon' | 'items',
+  t: Translations,
+): Record<string, unknown> {
   if (route === 'pokemon') {
     const f = { ...filters };
     if (Array.isArray(f.types)) {
-      f.types = (f.types as Array<{ name: string; iconUrl: string }>).map((item) => ({
+      f.types = (f.types as Array<{ name: string; iconUrl: string | null }>).map((item) => ({
         ...item,
         name: translatePokemonValue(item.name, esTypeReverse, t.pokemon.types),
       }));
     }
     if (Array.isArray(f.specialties)) {
-      f.specialties = (f.specialties as Array<{ name: string; iconUrl: string }>).map((item) => ({
-        ...item,
-        name: translatePokemonValue(item.name, esSpecialtyReverse, t.pokemon.specialties),
-      }));
+      f.specialties = (f.specialties as Array<{ name: string; iconUrl: string | null }>).map(
+        (item) => ({
+          ...item,
+          name: translatePokemonValue(item.name, esSpecialtyReverse, t.pokemon.specialties),
+        }),
+      );
     }
     if (Array.isArray(f.climates)) {
-      f.climates = (f.climates as Array<{ name: string; iconUrl: string }>).map((item) => ({
+      f.climates = (f.climates as Array<{ name: string; iconUrl: string | null }>).map((item) => ({
         ...item,
         name: translatePokemonValue(item.name, esClimateReverse, t.pokemon.climates),
       }));
     }
     if (Array.isArray(f.zones)) {
-      f.zones = (f.zones as string[]).map(
-        (zone) => translatePokemonValue(zone, esSpawnZoneReverse, t.pokemon.spawnZones),
+      f.zones = (f.zones as string[]).map((zone) =>
+        translatePokemonValue(zone, esSpawnZoneReverse, t.pokemon.spawnZones),
       );
     }
     if (Array.isArray(f.habitats)) {
-      f.habitats = (f.habitats as Array<{ name: string; iconUrl: string }>).map((item) => ({
+      f.habitats = (f.habitats as Array<{ name: string; iconUrl: string | null }>).map((item) => ({
         ...item,
         name: translatePokemonValue(item.name, esHabitatReverse, t.pokemon.habitats),
       }));
     }
     if (Array.isArray(f.classifications)) {
-      f.classifications = (f.classifications as string[]).map(
-        (c) => translatePokemonValue(c, esClassificationReverse, t.pokemon.classifications),
+      f.classifications = (f.classifications as string[]).map((c) =>
+        translatePokemonValue(c, esClassificationReverse, t.pokemon.classifications),
       );
     }
     if (Array.isArray(f.materials)) {
-      f.materials = (f.materials as Array<{ name: string; iconUrl: string }>).map((item) => ({
-        ...item,
-        name: translatePokemonValue(item.name, esProducesReverse, t.pokemon.produces),
-      }));
+      f.materials = (f.materials as Array<{ name: string; iconUrl: string | null }>).map(
+        (item) => ({
+          ...item,
+          name: translatePokemonValue(item.name, esProducesReverse, t.pokemon.produces),
+        }),
+      );
     }
     return f;
   }
@@ -247,7 +279,11 @@ function translateFilters(filters: Record<string, unknown>, route: 'pokemon' | '
   return filters;
 }
 
-function translateStats(stats: Record<string, unknown>, route: 'pokemon' | 'items', t: Translations): Record<string, unknown> {
+function translateStats(
+  stats: Record<string, unknown>,
+  route: 'pokemon' | 'items',
+  t: Translations,
+): Record<string, unknown> {
   if (route === 'pokemon') {
     const s = { ...stats };
     if (s.byClassification && typeof s.byClassification === 'object') {
@@ -261,13 +297,17 @@ function translateStats(stats: Record<string, unknown>, route: 'pokemon' | 'item
       s.byClassification = translated;
     }
     if (Array.isArray(s.byType)) {
-      s.byType = (s.byType as Array<{ name: string; iconUrl: string; count: number }>).map((item) => ({
-        ...item,
-        name: translatePokemonValue(item.name, esTypeReverse, t.pokemon.types),
-      }));
+      s.byType = (s.byType as Array<{ name: string; iconUrl: string | null; count: number }>).map(
+        (item) => ({
+          ...item,
+          name: translatePokemonValue(item.name, esTypeReverse, t.pokemon.types),
+        }),
+      );
     }
     if (Array.isArray(s.bySpecialty)) {
-      s.bySpecialty = (s.bySpecialty as Array<{ name: string; iconUrl: string; count: number }>).map((item) => ({
+      s.bySpecialty = (
+        s.bySpecialty as Array<{ name: string; iconUrl: string | null; count: number }>
+      ).map((item) => ({
         ...item,
         name: translatePokemonValue(item.name, esSpecialtyReverse, t.pokemon.specialties),
       }));
@@ -304,15 +344,22 @@ function parseLocale(url: string, header: string | undefined): Locale {
   return 'es';
 }
 
-function detectRoute(url: string): { resource: 'pokemon' | 'items' | null; endpoint: 'list' | 'filters' | 'stats' | 'detail' | null } {
+function detectRoute(url: string): {
+  resource: 'pokemon' | 'items' | null;
+  endpoint: 'list' | 'filters' | 'stats' | 'detail' | null;
+} {
   const path = url.split('?')[0];
 
-  if (path.match(/\/api\/v1\/pokemon\/filters\/?$/)) return { resource: 'pokemon', endpoint: 'filters' };
-  if (path.match(/\/api\/v1\/pokemon\/stats\/?$/)) return { resource: 'pokemon', endpoint: 'stats' };
-  if (path.match(/\/api\/v1\/pokemon\/[^/]+\/?$/)) return { resource: 'pokemon', endpoint: 'detail' };
+  if (path.match(/\/api\/v1\/pokemon\/filters\/?$/))
+    return { resource: 'pokemon', endpoint: 'filters' };
+  if (path.match(/\/api\/v1\/pokemon\/stats\/?$/))
+    return { resource: 'pokemon', endpoint: 'stats' };
+  if (path.match(/\/api\/v1\/pokemon\/[^/]+\/?$/))
+    return { resource: 'pokemon', endpoint: 'detail' };
   if (path.match(/\/api\/v1\/pokemon\/?$/)) return { resource: 'pokemon', endpoint: 'list' };
 
-  if (path.match(/\/api\/v1\/items\/filters\/?$/)) return { resource: 'items', endpoint: 'filters' };
+  if (path.match(/\/api\/v1\/items\/filters\/?$/))
+    return { resource: 'items', endpoint: 'filters' };
   if (path.match(/\/api\/v1\/items\/stats\/?$/)) return { resource: 'items', endpoint: 'stats' };
   if (path.match(/\/api\/v1\/items\/[^/]+\/?$/)) return { resource: 'items', endpoint: 'detail' };
   if (path.match(/\/api\/v1\/items\/?$/)) return { resource: 'items', endpoint: 'list' };

@@ -2013,7 +2013,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
       },
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -2100,7 +2100,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
       },
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -2197,7 +2197,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
       },
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -3254,10 +3254,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "037",
       "name": "hitmontop"
@@ -3334,10 +3331,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "038",
       "name": "koffing"
@@ -3413,10 +3407,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "039",
       "name": "weezing"
@@ -3500,9 +3491,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Isla Nube"
-    ],
+    "spawnZones": ["Isla Nube"],
     "previousEvolution": {
       "number": "040",
       "name": "tangela"
@@ -3743,10 +3732,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "042",
       "name": "scyther"
@@ -4558,10 +4544,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Estepa Estéril",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Estepa Estéril", "Isla Nube"],
     "previousEvolution": {
       "number": "052",
       "name": "illumise"
@@ -6755,10 +6738,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "076",
       "name": "goodra"
@@ -6988,10 +6968,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "078",
       "name": "pichu"
@@ -8554,7 +8531,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/types/grass.png"
       },
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -8646,7 +8623,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/types/grass.png"
       },
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -9463,10 +9440,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "107",
       "name": "munchlax"
@@ -10329,10 +10303,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Bahía Borrasca",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Bahía Borrasca", "Isla Nube"],
     "previousEvolution": {
       "number": "116",
       "name": "azumarill"
@@ -13821,10 +13792,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "155",
       "name": "dugtrio"
@@ -14076,10 +14044,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "158",
       "name": "machamp"
@@ -15445,10 +15410,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "174",
       "name": "ludicolo"
@@ -16289,10 +16251,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "184",
       "name": "volcarona"
@@ -16791,10 +16750,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "190",
       "name": "cinderace"
@@ -17666,7 +17622,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/types/fire.png"
       },
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -18678,7 +18634,7 @@
     "slug": "abra",
     "types": [
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -18762,7 +18718,7 @@
     "slug": "kadabra",
     "types": [
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -18841,7 +18797,7 @@
     "slug": "alakazam",
     "types": [
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -19928,7 +19884,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/types/normal.png"
       },
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -20011,7 +19967,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/types/normal.png"
       },
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -20094,7 +20050,7 @@
     "slug": "ralts",
     "types": [
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       },
       {
@@ -20177,7 +20133,7 @@
     "slug": "kirlia",
     "types": [
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       },
       {
@@ -20265,7 +20221,7 @@
     "slug": "gardevoir",
     "types": [
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       },
       {
@@ -20357,7 +20313,7 @@
     "slug": "gallade",
     "types": [
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       },
       {
@@ -21283,7 +21239,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/types/steel.png"
       },
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -21366,7 +21322,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/types/steel.png"
       },
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -21449,7 +21405,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/types/steel.png"
       },
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -24393,10 +24349,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "280",
       "name": "eevee"
@@ -24468,10 +24421,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "281",
       "name": "vaporeon"
@@ -24543,10 +24493,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "282",
       "name": "jolteon"
@@ -24565,7 +24512,7 @@
     "slug": "espeon",
     "types": [
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -24618,10 +24565,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "283",
       "name": "flareon"
@@ -24693,10 +24637,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "284",
       "name": "espeon"
@@ -24768,10 +24709,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "285",
       "name": "umbreon"
@@ -24843,10 +24781,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "286",
       "name": "leafeon"
@@ -24918,10 +24853,7 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": [
-      "Pradera Paleta",
-      "Isla Nube"
-    ],
+    "spawnZones": ["Pradera Paleta", "Isla Nube"],
     "previousEvolution": {
       "number": "287",
       "name": "glaceon"
@@ -25479,7 +25411,7 @@
     "slug": "lugia",
     "types": [
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       },
       {
@@ -25609,7 +25541,7 @@
     "slug": "mewtwo",
     "types": [
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -25675,7 +25607,7 @@
     "slug": "mew",
     "types": [
       {
-        "name": "Psiquico",
+        "name": "Psíquico",
         "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
       }
     ],
@@ -25809,7 +25741,41 @@
       "name": "skiploom"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/hoppip.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "event",
+      "number": "001"
+    },
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-03-10T05:00",
+      "endsAt": "2026-03-25T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": false
+    },
+    "event": {
+      "slug": "more-spores-for-hoppip",
+      "name": "More Spores for Hoppip"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Event Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Event)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609373",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia More Spores for Hoppip",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=More_Spores_for_Hoppip&oldid=4613177",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": ["release"]
   },
   {
     "localNumber": "E002",
@@ -25897,7 +25863,41 @@
       "name": "jumpluff"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/skiploom.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "event",
+      "number": "002"
+    },
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-03-10T05:00",
+      "endsAt": "2026-03-25T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": false
+    },
+    "event": {
+      "slug": "more-spores-for-hoppip",
+      "name": "More Spores for Hoppip"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Event Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Event)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609373",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia More Spores for Hoppip",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=More_Spores_for_Hoppip&oldid=4613177",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": ["release"]
   },
   {
     "localNumber": "E003",
@@ -25989,7 +25989,41 @@
     "produces": {
       "name": "Pelusa",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/fluff.png"
-    }
+    },
+    "dex": {
+      "kind": "event",
+      "number": "003"
+    },
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-03-10T05:00",
+      "endsAt": "2026-03-25T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": false
+    },
+    "event": {
+      "slug": "more-spores-for-hoppip",
+      "name": "More Spores for Hoppip"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Event Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Event)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609373",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia More Spores for Hoppip",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=More_Spores_for_Hoppip&oldid=4613177",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": ["release"]
   },
   {
     "localNumber": "E004",
@@ -26071,6 +26105,4771 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/sableye.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "event",
+      "number": "004"
+    },
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-04-29T05:00",
+      "endsAt": "2026-05-14T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": false
+    },
+    "event": {
+      "slug": "sableye-s-gem-hunt",
+      "name": "Sableye's Gem Hunt"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Event Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Event)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609373",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Sableye's Gem Hunt",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Sableye%27s_Gem_Hunt&oldid=4613176",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": ["release"]
+  },
+  {
+    "localNumber": "B001",
+    "nationalNumber": 90,
+    "name": "Shellder",
+    "slug": "shellder",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Scrub",
+        "iconUrl": "https://archives.bulbagarden.net/media/upload/thumb/5/53/Scrub_Specialty_Icon.png/20px-Scrub_Specialty_Icon.png"
+      }
+    ],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Basin tall grass and coral",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Sandy digging spot",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "001"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Scrub specialty",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Scrub_(specialty)&oldid=4613413",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "additionalSpecialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B002",
+    "nationalNumber": 91,
+    "name": "Cloyster",
+    "slug": "cloyster",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Hielo",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/ice.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Scrub",
+        "iconUrl": "https://archives.bulbagarden.net/media/upload/thumb/5/53/Scrub_Specialty_Icon.png/20px-Scrub_Specialty_Icon.png"
+      }
+    ],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Swaying flower bed and seaweed",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "002"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Scrub specialty",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Scrub_(specialty)&oldid=4613413",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "additionalSpecialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B003",
+    "nationalNumber": 116,
+    "name": "Horsea",
+    "slug": "horsea",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Coral congregation",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "003"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B004",
+    "nationalNumber": 117,
+    "name": "Seadra",
+    "slug": "seadra",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Coral congregation",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "004"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B005",
+    "nationalNumber": 230,
+    "name": "Kingdra",
+    "slug": "kingdra",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Dragon",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/dragon.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Coral congregation",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Marine makeup stand",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "005"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B006",
+    "nationalNumber": 120,
+    "name": "Staryu",
+    "slug": "staryu",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Swaying flower bed",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "006"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B007",
+    "nationalNumber": 121,
+    "name": "Starmie",
+    "slug": "starmie",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Psíquico",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Mermaid's Gym",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "007"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B008",
+    "nationalNumber": 158,
+    "name": "Totodile",
+    "slug": "totodile",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Basin tall grass",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Canoe dock",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Bubbly bathtub",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "008"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B009",
+    "nationalNumber": 159,
+    "name": "Croconaw",
+    "slug": "croconaw",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Chimney rocks dig site",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Canoe dock",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "009"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B010",
+    "nationalNumber": 160,
+    "name": "Feraligatr",
+    "slug": "feraligatr",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Basin tall grass",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Biteable punching bag",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "010"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B011",
+    "nationalNumber": 170,
+    "name": "Chinchou",
+    "slug": "chinchou",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Electrico",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/electric.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Fluffy relaxation",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "011"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B012",
+    "nationalNumber": 171,
+    "name": "Lanturn",
+    "slug": "lanturn",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Electrico",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/electric.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Nostalgia zone",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "012"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B013",
+    "nationalNumber": 222,
+    "name": "Corsola",
+    "slug": "corsola",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Roca",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/rock.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Basin tall grass and coral",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Coral congregation",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "013"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B014",
+    "nationalNumber": 258,
+    "name": "Mudkip",
+    "slug": "mudkip",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Basin tall grass",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Fluffy relaxation",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "014"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B015",
+    "nationalNumber": 259,
+    "name": "Marshtomp",
+    "slug": "marshtomp",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Tierra",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/ground.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Creepy chimney rocks",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Muddy playtime",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "015"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B016",
+    "nationalNumber": 260,
+    "name": "Swampert",
+    "slug": "swampert",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Tierra",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/ground.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Basin tall grass and coral",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Muddy spa",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "016"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B017",
+    "nationalNumber": 318,
+    "name": "Carvanha",
+    "slug": "carvanha",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Siniestro",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/dark.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Seaweed and netting",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "017"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B018",
+    "nationalNumber": 319,
+    "name": "Sharpedo",
+    "slug": "sharpedo",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Siniestro",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/dark.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Scrub",
+        "iconUrl": "https://archives.bulbagarden.net/media/upload/thumb/5/53/Scrub_Specialty_Icon.png/20px-Scrub_Specialty_Icon.png"
+      }
+    ],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Chimney rocks dig site",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "018"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Scrub specialty",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Scrub_(specialty)&oldid=4613413",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "additionalSpecialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B019",
+    "nationalNumber": 339,
+    "name": "Barboach",
+    "slug": "barboach",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Tierra",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/ground.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Sandy speech",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Ocean rest spot",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Muddy playtime",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "019"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B020",
+    "nationalNumber": 340,
+    "name": "Whiscash",
+    "slug": "whiscash",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Tierra",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/ground.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Gorgeous sleeping area",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "020"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B021",
+    "nationalNumber": 341,
+    "name": "Corphish",
+    "slug": "corphish",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Sandy basin tall grass",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Sandy digging spot",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "021"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B022",
+    "nationalNumber": 342,
+    "name": "Crawdaunt",
+    "slug": "crawdaunt",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Siniestro",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/dark.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Sandy digging spot",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "022"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B023",
+    "nationalNumber": 370,
+    "name": "Luvdisc",
+    "slug": "luvdisc",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Swaying flower bed and coral",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Treasure chest and sparkling jewels",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Fluffy relaxation",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "023"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B024",
+    "nationalNumber": 418,
+    "name": "Buizel",
+    "slug": "buizel",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Basin tall grass",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Smoothie-making spot",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "024"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B025",
+    "nationalNumber": 419,
+    "name": "Floatzel",
+    "slug": "floatzel",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Marine shop",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "025"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B026",
+    "nationalNumber": 456,
+    "name": "Finneon",
+    "slug": "finneon",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Swaying flower bed",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Marine mossy rest spot",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "026"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B027",
+    "nationalNumber": 457,
+    "name": "Lumineon",
+    "slug": "lumineon",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Swaying flower bed and seaweed",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Marine mossy rest spot",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "027"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B028",
+    "nationalNumber": 592,
+    "name": "Frillish",
+    "slug": "frillish",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Fantasma",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/ghost.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Playing sailor",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Ocean treasures",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "028"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [
+      {
+        "name": "Male",
+        "slug": "male",
+        "imageUrl": null
+      },
+      {
+        "name": "Female",
+        "slug": "female",
+        "imageUrl": null
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B029",
+    "nationalNumber": 593,
+    "name": "Jellicent",
+    "slug": "jellicent",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Fantasma",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/ghost.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Marine teatime",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "029"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [
+      {
+        "name": "Male",
+        "slug": "male",
+        "imageUrl": null
+      },
+      {
+        "name": "Female",
+        "slug": "female",
+        "imageUrl": null
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B030",
+    "nationalNumber": 594,
+    "name": "Alomomola",
+    "slug": "alomomola",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Scrub",
+        "iconUrl": "https://archives.bulbagarden.net/media/upload/thumb/5/53/Scrub_Specialty_Icon.png/20px-Scrub_Specialty_Icon.png"
+      }
+    ],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Ocean treasures",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "030"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Scrub specialty",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Scrub_(specialty)&oldid=4613413",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "additionalSpecialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B031",
+    "nationalNumber": 618,
+    "name": "Stunfisk",
+    "slug": "stunfisk",
+    "types": [
+      {
+        "name": "Tierra",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/ground.png"
+      },
+      {
+        "name": "Electrico",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/electric.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Swaying flower bed",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Seaweed and netting",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "031"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B032",
+    "nationalNumber": 686,
+    "name": "Inkay",
+    "slug": "inkay",
+    "types": [
+      {
+        "name": "Siniestro",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/dark.png"
+      },
+      {
+        "name": "Psíquico",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Muddy playtime",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "032"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B033",
+    "nationalNumber": 687,
+    "name": "Malamar",
+    "slug": "malamar",
+    "types": [
+      {
+        "name": "Siniestro",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/dark.png"
+      },
+      {
+        "name": "Psíquico",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Topsy-turvy",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "033"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B034",
+    "nationalNumber": 728,
+    "name": "Popplio",
+    "slug": "popplio",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Swaying flower bed",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Bubbly stage",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "034"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B035",
+    "nationalNumber": 729,
+    "name": "Brionne",
+    "slug": "brionne",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Bubbly stage",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "035"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B036",
+    "nationalNumber": 730,
+    "name": "Primarina",
+    "slug": "primarina",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Hada",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/fairy.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Scrub",
+        "iconUrl": "https://archives.bulbagarden.net/media/upload/thumb/5/53/Scrub_Specialty_Icon.png/20px-Scrub_Specialty_Icon.png"
+      }
+    ],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Elegant concert",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "036"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Scrub specialty",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Scrub_(specialty)&oldid=4613413",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "additionalSpecialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B037",
+    "nationalNumber": 747,
+    "name": "Mareanie",
+    "slug": "mareanie",
+    "types": [
+      {
+        "name": "Veneno",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/poison.png"
+      },
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Swaying flower bed and coral",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "037"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B038",
+    "nationalNumber": 748,
+    "name": "Toxapex",
+    "slug": "toxapex",
+    "types": [
+      {
+        "name": "Veneno",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/poison.png"
+      },
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Treasure chest and sparkling jewels",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "038"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B039",
+    "nationalNumber": 767,
+    "name": "Wimpod",
+    "slug": "wimpod",
+    "types": [
+      {
+        "name": "Bicho",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/bug.png"
+      },
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Discarded treasure",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "039"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B040",
+    "nationalNumber": 768,
+    "name": "Golisopod",
+    "slug": "golisopod",
+    "types": [
+      {
+        "name": "Bicho",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/bug.png"
+      },
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Swaying flower bed and coral",
+        "rarity": null,
+        "iconUrl": null
+      },
+      {
+        "name": "Discarded treasure",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "040"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B041",
+    "nationalNumber": 779,
+    "name": "Bruxish",
+    "slug": "bruxish",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Psíquico",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Molten mossy rest spot",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "041"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B042",
+    "nationalNumber": 781,
+    "name": "Dhelmise",
+    "slug": "dhelmise",
+    "types": [
+      {
+        "name": "Fantasma",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/ghost.png"
+      },
+      {
+        "name": "Planta",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/grass.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Playing sailor",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "042"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B043",
+    "nationalNumber": 833,
+    "name": "Chewtle",
+    "slug": "chewtle",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Smoothie-making spot",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "043"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B044",
+    "nationalNumber": 834,
+    "name": "Drednaw",
+    "slug": "drednaw",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Roca",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/rock.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Canoe dock",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "044"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B045",
+    "nationalNumber": 871,
+    "name": "Pincurchin",
+    "slug": "pincurchin",
+    "types": [
+      {
+        "name": "Electrico",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/electric.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Creepy chimney rocks",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "045"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B046",
+    "nationalNumber": 960,
+    "name": "Wiglett",
+    "slug": "wiglett",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Sandy speech",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "046"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B047",
+    "nationalNumber": 961,
+    "name": "Wugtrio",
+    "slug": "wugtrio",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Glowing stage for three",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "047"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B048",
+    "nationalNumber": 976,
+    "name": "Veluza",
+    "slug": "veluza",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      },
+      {
+        "name": "Psíquico",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [
+      {
+        "name": "Marine mossy rest spot",
+        "rarity": null,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "048"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B049",
+    "nationalNumber": 489,
+    "name": "Phione",
+    "slug": "phione",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "049"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "B050",
+    "nationalNumber": 490,
+    "name": "Manaphy",
+    "slug": "manaphy",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "comun",
+    "habitats": [],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": ["Bubbly Basin"],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "basin",
+      "number": "050"
+    },
+    "contentSource": "expansion-pass",
+    "release": {
+      "patch": null,
+      "date": "2026-08-05"
+    },
+    "availability": {
+      "kind": "permanent",
+      "startsAt": "2026-08-05",
+      "endsAt": null,
+      "timeZone": null,
+      "requiresInternet": null
+    },
+    "event": null,
+    "provenance": [
+      {
+        "source": "official",
+        "name": "Nintendo Bubbly Basin release announcement",
+        "url": "https://www.nintendo.com/us/whatsnew/pokemon-pokopia-expansion-pass-paid-dlc-keep-the-cozy-life-going-with-a-brand-new-underwater-area/",
+        "verifiedAt": "2026-08-17",
+        "notes": "Confirms Bubbly Basin was released as paid DLC on 2026-08-05 and requires the free 2.0.0 update for Dive."
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Basin Habitat Dex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Habitat_Dex_(Basin)&oldid=4613172",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "habitatRarity",
+      "specialties",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "E005",
+    "nationalNumber": 385,
+    "name": "Jirachi",
+    "slug": "jirachi",
+    "types": [
+      {
+        "name": "Acero",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/steel.png"
+      },
+      {
+        "name": "Psíquico",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/psychic.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Litter",
+        "iconUrl": null
+      }
+    ],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "evento",
+    "habitats": [
+      {
+        "name": "Surrounded by stars",
+        "rarity": 1,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": [],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "event",
+      "number": "005"
+    },
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-06-23T05:00",
+      "endsAt": "2026-07-08T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "wish-upon-a-jirachi",
+      "name": "Wish Upon a Jirachi"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Event Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Event)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609373",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Wish Upon a Jirachi",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Wish_Upon_a_Jirachi&oldid=4613175",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "release"
+    ]
+  },
+  {
+    "localNumber": "E006",
+    "nationalNumber": 349,
+    "name": "Feebas",
+    "slug": "feebas",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Water",
+        "iconUrl": null
+      }
+    ],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "evento",
+    "habitats": [
+      {
+        "name": "Exciting beach",
+        "rarity": 1,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": [],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "event",
+      "number": "006"
+    },
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-08-13T05:00",
+      "endsAt": "2026-08-28T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "fetching-scales-for-feebas",
+      "name": "Fetching Scales for Feebas"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Event Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Event)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609373",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Fetching Scales for Feebas",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Fetching_Scales_for_Feebas&oldid=4613863",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "release"
+    ]
+  },
+  {
+    "localNumber": "E007",
+    "nationalNumber": 350,
+    "name": "Milotic",
+    "slug": "milotic",
+    "types": [
+      {
+        "name": "Agua",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/water.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Water",
+        "iconUrl": null
+      },
+      {
+        "name": "Hype",
+        "iconUrl": null
+      }
+    ],
+    "height": null,
+    "weight": null,
+    "idealEnvironment": null,
+    "classification": "evento",
+    "habitats": [
+      {
+        "name": "Marine leisure activities",
+        "rarity": 1,
+        "iconUrl": null
+      }
+    ],
+    "climates": [],
+    "timeAvailability": [],
+    "spawnZones": [],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": null,
+    "produces": null,
+    "dex": {
+      "kind": "event",
+      "number": "007"
+    },
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-08-13T05:00",
+      "endsAt": "2026-08-28T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "fetching-scales-for-feebas",
+      "name": "Fetching Scales for Feebas"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Event Pokédex",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Event)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609373",
+        "verifiedAt": "2026-08-17"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Fetching Scales for Feebas",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Fetching_Scales_for_Feebas&oldid=4613863",
+        "verifiedAt": "2026-08-17"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "height",
+      "weight",
+      "idealEnvironment",
+      "climates",
+      "timeAvailability",
+      "evolutions",
+      "imageUrl",
+      "produces",
+      "release"
+    ]
   }
 ]

@@ -8,14 +8,33 @@ export default async function itemRoutes(server: FastifyInstance) {
   server.get('/items', {
     schema: {
       tags: ['Items (Experimental)'],
-      description: 'List items with optional filters and pagination. This endpoint is experimental.',
+      description:
+        'List items with optional filters and pagination. This endpoint is experimental.',
       querystring: {
         type: 'object',
         properties: {
-          category: { type: 'string', description: 'Filter by category (e.g., furniture, materials)' },
+          category: {
+            type: 'string',
+            description: 'Filter by category (e.g., furniture, materials)',
+          },
           tag: { type: 'string', description: 'Filter by tag (e.g., Decoration, Relaxation)' },
           search: { type: 'string', description: 'Search by name' },
-          hasImage: { type: 'string', enum: ['true', 'false'], description: 'Filter by image availability' },
+          hasImage: {
+            type: 'string',
+            enum: ['true', 'false'],
+            description: 'Filter by image availability',
+          },
+          contentSource: {
+            type: 'string',
+            enum: ['base', 'free-update', 'event', 'expansion-pass'],
+            description: 'Filter by the content that introduced the item',
+          },
+          event: { type: 'string', description: 'Filter by event name or slug' },
+          recipeStatus: {
+            type: 'string',
+            enum: ['none', 'verified', 'incomplete'],
+            description: 'Filter by recipe verification status',
+          },
           page: { type: 'integer', default: 1, minimum: 1 },
           limit: { type: 'integer', default: 20, minimum: 1, maximum: 100 },
         },
@@ -29,6 +48,9 @@ export default async function itemRoutes(server: FastifyInstance) {
         tag: query.tag ?? null,
         search: query.search ?? null,
         hasImage: query.hasImage ?? null,
+        content_source: query.contentSource ?? null,
+        event: query.event ?? null,
+        recipe_status: query.recipeStatus ?? null,
         page: query.page,
         limit: query.limit,
         result_count: result.pagination.total,

@@ -11,7 +11,9 @@ for (const item of allItems) {
 }
 
 const allCategories = [...new Set(allItems.map((i) => i.category))].sort();
-const allTags = [...new Set(allItems.map((i) => i.tag).filter((t): t is string => t !== null))].sort();
+const allTags = [
+  ...new Set(allItems.map((i) => i.tag).filter((t): t is string => t !== null)),
+].sort();
 
 function normalize(s: string): string {
   return s
@@ -35,6 +37,25 @@ export function findAll(query: ItemQuery) {
 
   if (query.hasImage !== undefined) {
     filtered = filtered.filter((i) => (query.hasImage ? i.imageUrl !== null : i.imageUrl === null));
+  }
+
+  if (query.contentSource) {
+    filtered = filtered.filter((i) => (i.contentSource ?? 'base') === query.contentSource);
+  }
+
+  if (query.event) {
+    const event = normalize(query.event);
+    filtered = filtered.filter(
+      (i) =>
+        i.event &&
+        (normalize(i.event.slug).includes(event) || normalize(i.event.name).includes(event)),
+    );
+  }
+
+  if (query.recipeStatus) {
+    filtered = filtered.filter(
+      (i) => (i.recipeStatus ?? (i.craftingRecipe ? 'verified' : 'none')) === query.recipeStatus,
+    );
   }
 
   if (query.search) {
@@ -68,6 +89,13 @@ export function getFilters() {
   return {
     categories: allCategories,
     tags: allTags,
+    contentSources: [...new Set(allItems.map((i) => i.contentSource ?? 'base'))].sort(),
+    recipeStatuses: [
+      ...new Set(allItems.map((i) => i.recipeStatus ?? (i.craftingRecipe ? 'verified' : 'none'))),
+    ].sort(),
+    events: [
+      ...new Map(allItems.filter((i) => i.event).map((i) => [i.event!.slug, i.event!])).values(),
+    ].sort((a, b) => a.name.localeCompare(b.name)),
   };
 }
 
@@ -80,5 +108,20 @@ export function getStats() {
       category: cat,
       count: allItems.filter((i) => i.category === cat).length,
     })),
+    byContentSource: Object.fromEntries(
+      ['base', 'free-update', 'event', 'expansion-pass'].map((source) => [
+        source,
+        allItems.filter((i) => (i.contentSource ?? 'base') === source).length,
+      ]),
+    ),
+    byRecipeStatus: Object.fromEntries(
+      ['none', 'verified', 'incomplete'].map((status) => [
+        status,
+        allItems.filter(
+          (i) => (i.recipeStatus ?? (i.craftingRecipe ? 'verified' : 'none')) === status,
+        ).length,
+      ]),
+    ),
+    partial: allItems.filter((i) => i.dataStatus === 'partial').length,
   };
 }
