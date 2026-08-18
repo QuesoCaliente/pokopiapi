@@ -41,6 +41,11 @@ function normalize(s: string): string {
     .replace(/[\u0300-\u036f]/g, '');
 }
 
+function dexKind(pokemon: Pokemon): 'regular' | 'event' | 'basin' {
+  if (pokemon.dex) return pokemon.dex.kind;
+  return pokemon.classification === 'evento' ? 'event' : 'regular';
+}
+
 export function findAll(query: PokemonQuery) {
   let filtered = allPokemon;
 
@@ -77,6 +82,31 @@ export function findAll(query: PokemonQuery) {
   if (query.habitat) {
     const h = normalize(query.habitat);
     filtered = filtered.filter((p) => p.habitats.some((hab) => normalize(hab.name).includes(h)));
+  }
+
+  if (query.dex) {
+    filtered = filtered.filter((p) => dexKind(p) === query.dex);
+  }
+
+  if (query.contentSource) {
+    filtered = filtered.filter((p) => {
+      const source = p.contentSource ?? (p.classification === 'evento' ? 'event' : 'base');
+      return source === query.contentSource;
+    });
+  }
+
+  if (query.event) {
+    const event = normalize(query.event);
+    filtered = filtered.filter(
+      (p) =>
+        p.event &&
+        (normalize(p.event.slug).includes(event) || normalize(p.event.name).includes(event)),
+    );
+  }
+
+  if (query.form) {
+    const form = normalize(query.form);
+    filtered = filtered.filter((p) => p.forms?.some((value) => normalize(value.name) === form));
   }
 
   if (query.search) {
@@ -122,6 +152,18 @@ export function getFilters() {
     materials: allMaterials,
     habitats: allHabitats,
     classifications: allClassifications,
+    dexes: [...new Set(allPokemon.map(dexKind))].sort(),
+    contentSources: [
+      ...new Set(
+        allPokemon.map(
+          (p) => p.contentSource ?? (p.classification === 'evento' ? 'event' : 'base'),
+        ),
+      ),
+    ].sort(),
+    events: [
+      ...new Map(allPokemon.filter((p) => p.event).map((p) => [p.event!.slug, p.event!])).values(),
+    ].sort((a, b) => a.name.localeCompare(b.name)),
+    forms: [...new Set(allPokemon.flatMap((p) => p.forms?.map((form) => form.name) ?? []))].sort(),
   };
 }
 
@@ -140,5 +182,20 @@ export function getStats() {
       ...sp,
       count: allPokemon.filter((p) => p.specialties.some((s) => s.name === sp.name)).length,
     })),
+    byDex: Object.fromEntries(
+      ['regular', 'event', 'basin'].map((dex) => [
+        dex,
+        allPokemon.filter((p) => dexKind(p) === dex).length,
+      ]),
+    ),
+    byContentSource: Object.fromEntries(
+      ['base', 'free-update', 'event', 'expansion-pass'].map((source) => [
+        source,
+        allPokemon.filter(
+          (p) => (p.contentSource ?? (p.classification === 'evento' ? 'event' : 'base')) === source,
+        ).length,
+      ]),
+    ),
+    partial: allPokemon.filter((p) => p.dataStatus === 'partial').length,
   };
 }

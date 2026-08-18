@@ -1,4 +1,12 @@
 import { z } from 'zod';
+import {
+  availabilitySchema,
+  contentSourceSchema,
+  dataStatusSchema,
+  eventAssociationSchema,
+  provenanceSchema,
+  releaseSchema,
+} from './content.js';
 
 export const craftingMaterialSchema = z.object({
   name: z.string(),
@@ -16,6 +24,15 @@ export const itemSchema = z.object({
   imageUrl: z.string().nullable(),
   locations: z.array(z.string()),
   craftingRecipe: z.array(craftingMaterialSchema).nullable(),
+  recipeStatus: z.enum(['none', 'verified', 'incomplete']).optional(),
+  recipeLocation: z.string().nullable().optional(),
+  contentSource: contentSourceSchema.optional(),
+  release: releaseSchema.nullable().optional(),
+  availability: availabilitySchema.optional(),
+  event: eventAssociationSchema.nullable().optional(),
+  provenance: z.array(provenanceSchema).optional(),
+  dataStatus: dataStatusSchema.optional(),
+  unknownFields: z.array(z.string()).optional(),
 });
 
 export type Item = z.infer<typeof itemSchema>;
@@ -25,6 +42,9 @@ export const itemQuerySchema = z.object({
   category: z.string().optional(),
   tag: z.string().optional(),
   search: z.string().optional(),
+  contentSource: contentSourceSchema.optional(),
+  event: z.string().optional(),
+  recipeStatus: z.enum(['none', 'verified', 'incomplete']).optional(),
   hasImage: z
     .enum(['true', 'false'])
     .transform((v) => v === 'true')
