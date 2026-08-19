@@ -12,6 +12,12 @@
     "lint": "eslint src/",
     "lint:fix": "eslint src/ --fix",
     "format": "prettier --write \"src/**/*.ts\" \"tests/**/*.ts\"",
+    "assets:manifest": "tsx scripts/assets/generate-manifest.ts",
+    "assets:acquire": "tsx scripts/assets/acquire.ts",
+    "assets:upload": "tsx scripts/assets/upload.ts",
+    "assets:verify": "tsx scripts/assets/verify-public.ts",
+    "assets:update-data": "tsx scripts/assets/update-data.ts",
+    "test:assets": "vitest run tests/assets.test.ts",
     "docker:build": "docker build -t pokopiaapi .",
     "docker:run": "docker run -p 3000:3000 pokopiaapi"
   },
@@ -43,6 +49,7 @@
     "tsx": "^4.21.0",
     "typescript": "^6.0.2",
     "typescript-eslint": "^8.58.1",
-    "vitest": "^4.1.4"
+    "vitest": "^4.1.4",
+    "wrangler": "^4.124.0"
   }
 }

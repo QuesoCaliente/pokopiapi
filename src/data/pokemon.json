@@ -3254,7 +3254,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "037",
       "name": "hitmontop"
@@ -3331,7 +3334,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "038",
       "name": "koffing"
@@ -3407,7 +3413,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "039",
       "name": "weezing"
@@ -3491,7 +3500,9 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Isla Nube"],
+    "spawnZones": [
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "040",
       "name": "tangela"
@@ -3732,7 +3743,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "042",
       "name": "scyther"
@@ -4544,7 +4558,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Estepa Estéril", "Isla Nube"],
+    "spawnZones": [
+      "Estepa Estéril",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "052",
       "name": "illumise"
@@ -6738,7 +6755,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "076",
       "name": "goodra"
@@ -6968,7 +6988,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "078",
       "name": "pichu"
@@ -9440,7 +9463,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "107",
       "name": "munchlax"
@@ -10303,7 +10329,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Bahía Borrasca", "Isla Nube"],
+    "spawnZones": [
+      "Bahía Borrasca",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "116",
       "name": "azumarill"
@@ -13792,7 +13821,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "155",
       "name": "dugtrio"
@@ -14044,7 +14076,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "158",
       "name": "machamp"
@@ -15410,7 +15445,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "174",
       "name": "ludicolo"
@@ -16251,7 +16289,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "184",
       "name": "volcarona"
@@ -16750,7 +16791,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "190",
       "name": "cinderace"
@@ -24349,7 +24393,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "280",
       "name": "eevee"
@@ -24421,7 +24468,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "281",
       "name": "vaporeon"
@@ -24493,7 +24543,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "282",
       "name": "jolteon"
@@ -24565,7 +24618,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "283",
       "name": "flareon"
@@ -24637,7 +24693,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "284",
       "name": "espeon"
@@ -24709,7 +24768,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "285",
       "name": "umbreon"
@@ -24781,7 +24843,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "286",
       "name": "leafeon"
@@ -24853,7 +24918,10 @@
         "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
       }
     ],
-    "spawnZones": ["Pradera Paleta", "Isla Nube"],
+    "spawnZones": [
+      "Pradera Paleta",
+      "Isla Nube"
+    ],
     "previousEvolution": {
       "number": "287",
       "name": "glaceon"
@@ -25775,7 +25843,9 @@
     ],
     "forms": [],
     "dataStatus": "partial",
-    "unknownFields": ["release"]
+    "unknownFields": [
+      "release"
+    ]
   },
   {
     "localNumber": "E002",
@@ -25897,7 +25967,9 @@
     ],
     "forms": [],
     "dataStatus": "partial",
-    "unknownFields": ["release"]
+    "unknownFields": [
+      "release"
+    ]
   },
   {
     "localNumber": "E003",
@@ -26023,7 +26095,9 @@
     ],
     "forms": [],
     "dataStatus": "partial",
-    "unknownFields": ["release"]
+    "unknownFields": [
+      "release"
+    ]
   },
   {
     "localNumber": "E004",
@@ -26139,7 +26213,9 @@
     ],
     "forms": [],
     "dataStatus": "partial",
-    "unknownFields": ["release"]
+    "unknownFields": [
+      "release"
+    ]
   },
   {
     "localNumber": "B001",
@@ -26176,10 +26252,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/shellder.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -26234,7 +26312,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "additionalSpecialties",
@@ -26275,10 +26352,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cloyster.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -26333,7 +26412,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "additionalSpecialties",
@@ -26365,10 +26443,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/horsea.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -26417,7 +26497,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -26449,10 +26528,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/seadra.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -26501,7 +26582,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -26542,10 +26622,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/kingdra.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -26594,7 +26676,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -26626,10 +26707,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/staryu.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -26678,7 +26761,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -26714,10 +26796,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/starmie.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -26766,7 +26850,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -26808,10 +26891,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/totodile.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -26860,7 +26945,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -26897,10 +26981,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/croconaw.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -26949,7 +27035,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -26986,10 +27071,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/feraligatr.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -27038,7 +27125,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -27074,10 +27160,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/chinchou.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -27126,7 +27214,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -27162,10 +27249,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lanturn.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -27214,7 +27303,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -27255,10 +27343,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/corsola.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -27307,7 +27397,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -27344,10 +27433,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mudkip.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -27396,7 +27487,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -27437,10 +27527,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/marshtomp.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -27489,7 +27581,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -27530,10 +27621,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/swampert.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -27582,7 +27675,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -27618,10 +27710,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/carvanha.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -27670,7 +27764,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -27711,10 +27804,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/sharpedo.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -27769,7 +27864,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "additionalSpecialties",
@@ -27815,10 +27909,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/barboach.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -27867,7 +27963,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -27903,10 +27998,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/whiscash.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -27955,7 +28052,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -27992,10 +28088,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/corphish.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -28044,7 +28142,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -28080,10 +28177,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/crawdaunt.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -28132,7 +28231,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -28174,10 +28272,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/luvdisc.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -28226,7 +28326,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -28263,10 +28362,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/buizel.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -28315,7 +28416,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -28347,10 +28447,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/floatzel.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -28399,7 +28501,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -28436,10 +28537,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/finneon.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -28488,7 +28591,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -28525,10 +28627,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lumineon.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -28577,7 +28681,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -28618,7 +28721,9 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": null,
@@ -28665,12 +28770,12 @@
       {
         "name": "Male",
         "slug": "male",
-        "imageUrl": null
+        "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/frillish-male.png"
       },
       {
         "name": "Female",
         "slug": "female",
-        "imageUrl": null
+        "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/frillish-female.png"
       }
     ],
     "dataStatus": "partial",
@@ -28717,7 +28822,9 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": null,
@@ -28764,12 +28871,12 @@
       {
         "name": "Male",
         "slug": "male",
-        "imageUrl": null
+        "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/jellicent-male.png"
       },
       {
         "name": "Female",
         "slug": "female",
-        "imageUrl": null
+        "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/jellicent-female.png"
       }
     ],
     "dataStatus": "partial",
@@ -28817,10 +28924,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/alomomola.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -28875,7 +28984,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "additionalSpecialties",
@@ -28916,10 +29024,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/stunfisk.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -28968,7 +29078,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -29004,10 +29113,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/inkay.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -29056,7 +29167,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -29092,10 +29202,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/malamar.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -29144,7 +29256,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -29181,10 +29292,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/popplio.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -29233,7 +29346,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -29265,10 +29377,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/brionne.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -29317,7 +29431,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -29358,10 +29471,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/primarina.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -29416,7 +29531,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "additionalSpecialties",
@@ -29452,10 +29566,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mareanie.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -29504,7 +29620,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -29540,10 +29655,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/toxapex.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -29592,7 +29709,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -29628,10 +29744,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/wimpod.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -29680,7 +29798,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -29721,10 +29838,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/golisopod.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -29773,7 +29892,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -29809,10 +29927,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/bruxish.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -29861,7 +29981,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -29897,10 +30016,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dhelmise.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -29949,7 +30070,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -29981,10 +30101,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/chewtle.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -30033,7 +30155,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -30069,10 +30190,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/drednaw.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -30121,7 +30244,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -30153,10 +30275,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pincurchin.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -30205,7 +30329,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -30237,10 +30360,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/wiglett.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -30289,7 +30414,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -30321,10 +30445,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/wugtrio.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -30373,7 +30499,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -30409,10 +30534,12 @@
     ],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/veluza.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -30461,7 +30588,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -30487,10 +30613,12 @@
     "habitats": [],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/phione.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -30539,7 +30667,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
@@ -30565,10 +30692,12 @@
     "habitats": [],
     "climates": [],
     "timeAvailability": [],
-    "spawnZones": ["Bubbly Basin"],
+    "spawnZones": [
+      "Bubbly Basin"
+    ],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/manaphy.png",
     "produces": null,
     "dex": {
       "kind": "basin",
@@ -30617,7 +30746,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "habitatRarity",
       "specialties",
