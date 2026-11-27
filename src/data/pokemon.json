@@ -30789,7 +30789,7 @@
     "spawnZones": [],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/jirachi.png",
     "produces": null,
     "dex": {
       "kind": "event",
@@ -30831,7 +30831,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "release"
     ]
@@ -30869,7 +30868,7 @@
     "spawnZones": [],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/feebas.png",
     "produces": null,
     "dex": {
       "kind": "event",
@@ -30911,7 +30910,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "release"
     ]
@@ -30953,7 +30951,7 @@
     "spawnZones": [],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/milotic.png",
     "produces": null,
     "dex": {
       "kind": "event",
@@ -30995,7 +30993,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "release"
     ]
@@ -31067,7 +31064,7 @@
     "spawnZones": [],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pumpkaboo.png",
     "produces": null,
     "dex": {
       "kind": "event",
@@ -31116,7 +31113,6 @@
     "dataStatus": "partial",
     "unknownFields": [
       "evolutions",
-      "imageUrl",
       "produces",
       "release"
     ]
@@ -31192,7 +31188,7 @@
     "spawnZones": [],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gourgeist.png",
     "produces": null,
     "dex": {
       "kind": "event",
@@ -31241,7 +31237,6 @@
     "dataStatus": "partial",
     "unknownFields": [
       "evolutions",
-      "imageUrl",
       "produces",
       "release"
     ]
@@ -31323,7 +31318,7 @@
     "spawnZones": [],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/applin.png",
     "produces": null,
     "dex": {
       "kind": "event",
@@ -31366,7 +31361,6 @@
     "dataStatus": "partial",
     "unknownFields": [
       "evolutions",
-      "imageUrl",
       "produces",
       "release",
       "availability.requiresInternet"
@@ -31443,7 +31437,7 @@
     "spawnZones": [],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/flapple.png",
     "produces": null,
     "dex": {
       "kind": "event",
@@ -31486,7 +31480,6 @@
     "dataStatus": "partial",
     "unknownFields": [
       "evolutions",
-      "imageUrl",
       "produces",
       "release",
       "availability.requiresInternet"
@@ -31563,7 +31556,7 @@
     "spawnZones": [],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/appletun.png",
     "produces": null,
     "dex": {
       "kind": "event",
@@ -31606,7 +31599,6 @@
     "dataStatus": "partial",
     "unknownFields": [
       "evolutions",
-      "imageUrl",
       "produces",
       "release",
       "availability.requiresInternet"
@@ -31683,7 +31675,7 @@
     "spawnZones": [],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dipplin.png",
     "produces": null,
     "dex": {
       "kind": "event",
@@ -31726,7 +31718,6 @@
     "dataStatus": "partial",
     "unknownFields": [
       "evolutions",
-      "imageUrl",
       "produces",
       "release",
       "availability.requiresInternet"
@@ -31803,7 +31794,7 @@
     "spawnZones": [],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/hydrapple.png",
     "produces": null,
     "dex": {
       "kind": "event",
@@ -31846,7 +31837,6 @@
     "dataStatus": "partial",
     "unknownFields": [
       "evolutions",
-      "imageUrl",
       "produces",
       "release",
       "availability.requiresInternet"
