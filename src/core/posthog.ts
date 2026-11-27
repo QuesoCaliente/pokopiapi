@@ -16,7 +16,11 @@ export const posthog = apiKey
     })
   : noop;
 
-export function trackEvent(request: FastifyRequest, event: string, properties?: Record<string, unknown>) {
+export function trackEvent(
+  request: FastifyRequest,
+  event: string,
+  properties?: Record<string, unknown>,
+) {
   const distinctId =
     (request.headers['x-posthog-distinct-id'] as string | undefined) ?? 'anonymous';
   const origin = request.headers.origin ?? request.headers.referer ?? 'unknown';
