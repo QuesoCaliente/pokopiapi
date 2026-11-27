@@ -1,13 +1,13 @@
 import { describe, it, expect } from 'vitest';
 import { buildApp } from '../src/app.js';
 
-describe('GET /health', () => {
+describe('GET /api/v1/health', () => {
   it('should return status ok', async () => {
     const server = await buildApp();
 
     const response = await server.inject({
       method: 'GET',
-      url: '/health',
+      url: '/api/v1/health',
     });
 
     expect(response.statusCode).toBe(200);
