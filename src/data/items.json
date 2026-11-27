@@ -29567,6 +29567,1103 @@
     ]
   },
   {
+    "name": "Pumpkin candy",
+    "slug": "pumpkin-candy",
+    "description": "A pumpkin-flavored lollipop. Bring it to Pumpkaboo!",
+    "category": "food",
+    "tag": "Food",
+    "imageUrl": null,
+    "locations": [
+      "Gift for surprising Pokémon with Camouflage during the event"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-10-17T05:00",
+      "endsAt": "2026-11-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "pumpkaboo-s-sweet-surprises",
+      "name": "Pumpkaboo's Sweet Surprises"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Pumpkaboo's Sweet Surprises",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Pumpkaboo%27s_Sweet_Surprises&oldid=4654830",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Pumpkaboo's Sweet Surprises",
+        "url": "https://www.serebii.net/pokemonpokopia/events/pumpkaboo'ssweetsurprises.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia event items",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_event_items_in_Pok%C3%A9mon_Pokopia&oldid=4658759",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Pumpkin candy",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Pumpkin_candy&oldid=4662057",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release"
+    ]
+  },
+  {
+    "name": "Cofagrigus locker",
+    "slug": "cofagrigus-locker",
+    "description": "A coffin-like locker that resembles Cofagrigus. Open the door and store your stuff inside!",
+    "category": "furniture",
+    "tag": "Toy",
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (3 Pumpkin candy)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-10-17T05:00",
+      "endsAt": "2026-11-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "pumpkaboo-s-sweet-surprises",
+      "name": "Pumpkaboo's Sweet Surprises"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Pumpkaboo's Sweet Surprises",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Pumpkaboo%27s_Sweet_Surprises&oldid=4654830",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Pumpkaboo's Sweet Surprises",
+        "url": "https://www.serebii.net/pokemonpokopia/events/pumpkaboo'ssweetsurprises.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia event items",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_event_items_in_Pok%C3%A9mon_Pokopia&oldid=4658759",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release"
+    ]
+  },
+  {
+    "name": "Huge table",
+    "slug": "huge-table",
+    "description": "An extra-large table that can seat many—perfect for parties and all celebrations!",
+    "category": "furniture",
+    "tag": null,
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (1 Pumpkin candy)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-10-17T05:00",
+      "endsAt": "2026-11-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "pumpkaboo-s-sweet-surprises",
+      "name": "Pumpkaboo's Sweet Surprises"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Pumpkaboo's Sweet Surprises",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Pumpkaboo%27s_Sweet_Surprises&oldid=4654830",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Pumpkaboo's Sweet Surprises",
+        "url": "https://www.serebii.net/pokemonpokopia/events/pumpkaboo'ssweetsurprises.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia event items",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_event_items_in_Pok%C3%A9mon_Pokopia&oldid=4658759",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "tag",
+      "imageUrl",
+      "release"
+    ]
+  },
+  {
+    "name": "Candy bucket",
+    "slug": "candy-bucket",
+    "description": "A small bucket shaped like Pikachu and filled with all kinds of candy and chocolate.",
+    "category": "misc",
+    "tag": "Decoration",
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (2 Pumpkin candy)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-10-17T05:00",
+      "endsAt": "2026-11-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "pumpkaboo-s-sweet-surprises",
+      "name": "Pumpkaboo's Sweet Surprises"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Pumpkaboo's Sweet Surprises",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Pumpkaboo%27s_Sweet_Surprises&oldid=4654830",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Pumpkaboo's Sweet Surprises",
+        "url": "https://www.serebii.net/pokemonpokopia/events/pumpkaboo'ssweetsurprises.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia event items",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_event_items_in_Pok%C3%A9mon_Pokopia&oldid=4658759",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release"
+    ]
+  },
+  {
+    "name": "Fun balloons",
+    "slug": "fun-balloons",
+    "description": "Cute Pikachu and Drifloon balloons that sway in the slightest breeze.",
+    "category": "misc",
+    "tag": "Toy",
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (2 Pumpkin candy)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-10-17T05:00",
+      "endsAt": "2026-11-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "pumpkaboo-s-sweet-surprises",
+      "name": "Pumpkaboo's Sweet Surprises"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Pumpkaboo's Sweet Surprises",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Pumpkaboo%27s_Sweet_Surprises&oldid=4654830",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Pumpkaboo's Sweet Surprises",
+        "url": "https://www.serebii.net/pokemonpokopia/events/pumpkaboo'ssweetsurprises.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia event items",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_event_items_in_Pok%C3%A9mon_Pokopia&oldid=4658759",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release"
+    ]
+  },
+  {
+    "name": "Ghost smoke projector",
+    "slug": "ghost-smoke-projector",
+    "description": "A small, lightweight device that billows ghostlike smoke.",
+    "category": "misc",
+    "tag": "Toy",
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (3 Pumpkin candy)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-10-17T05:00",
+      "endsAt": "2026-11-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "pumpkaboo-s-sweet-surprises",
+      "name": "Pumpkaboo's Sweet Surprises"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Pumpkaboo's Sweet Surprises",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Pumpkaboo%27s_Sweet_Surprises&oldid=4654830",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Pumpkaboo's Sweet Surprises",
+        "url": "https://www.serebii.net/pokemonpokopia/events/pumpkaboo'ssweetsurprises.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia event items",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_event_items_in_Pok%C3%A9mon_Pokopia&oldid=4658759",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release"
+    ]
+  },
+  {
+    "name": "Eerie statue",
+    "slug": "eerie-statue",
+    "description": "A magnificent stone statue of Duskull, Dusclops, and Dusknoir. And when night falls...",
+    "category": "misc",
+    "tag": "Toy",
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (3 Pumpkin candy)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-10-17T05:00",
+      "endsAt": "2026-11-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "pumpkaboo-s-sweet-surprises",
+      "name": "Pumpkaboo's Sweet Surprises"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Pumpkaboo's Sweet Surprises",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Pumpkaboo%27s_Sweet_Surprises&oldid=4654830",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Pumpkaboo's Sweet Surprises",
+        "url": "https://www.serebii.net/pokemonpokopia/events/pumpkaboo'ssweetsurprises.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia event items",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_event_items_in_Pok%C3%A9mon_Pokopia&oldid=4658759",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release"
+    ]
+  },
+  {
+    "name": "Trevenant streetlight",
+    "slug": "trevenant-streetlight",
+    "description": "If you place two Trevenant streetlights side by side, the connecting branches form an arch.",
+    "category": "utilities",
+    "tag": "Toy",
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (2 Pumpkin candy)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-10-17T05:00",
+      "endsAt": "2026-11-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "pumpkaboo-s-sweet-surprises",
+      "name": "Pumpkaboo's Sweet Surprises"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Pumpkaboo's Sweet Surprises",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Pumpkaboo%27s_Sweet_Surprises&oldid=4654830",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Pumpkaboo's Sweet Surprises",
+        "url": "https://www.serebii.net/pokemonpokopia/events/pumpkaboo'ssweetsurprises.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia event items",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_event_items_in_Pok%C3%A9mon_Pokopia&oldid=4658759",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release"
+    ]
+  },
+  {
+    "name": "Pumpkin lantern",
+    "slug": "pumpkin-lantern",
+    "description": "A faintly glowing pumpkin lantern. Its face looks just like Haunter!",
+    "category": "utilities",
+    "tag": "Toy",
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (2 Pumpkin candy)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-10-17T05:00",
+      "endsAt": "2026-11-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "pumpkaboo-s-sweet-surprises",
+      "name": "Pumpkaboo's Sweet Surprises"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Pumpkaboo's Sweet Surprises",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Pumpkaboo%27s_Sweet_Surprises&oldid=4654830",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Pumpkaboo's Sweet Surprises",
+        "url": "https://www.serebii.net/pokemonpokopia/events/pumpkaboo'ssweetsurprises.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia event items",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_event_items_in_Pok%C3%A9mon_Pokopia&oldid=4658759",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release"
+    ]
+  },
+  {
+    "name": "Pumpkin lantern tower",
+    "slug": "pumpkin-lantern-tower",
+    "description": "A small Pikachu rests on a Mimikyu. This could be placed on top of a pumpkin lantern.",
+    "category": "utilities",
+    "tag": "Toy",
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (2 Pumpkin candy)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-10-17T05:00",
+      "endsAt": "2026-11-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "pumpkaboo-s-sweet-surprises",
+      "name": "Pumpkaboo's Sweet Surprises"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Pumpkaboo's Sweet Surprises",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Pumpkaboo%27s_Sweet_Surprises&oldid=4654830",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Pumpkaboo's Sweet Surprises",
+        "url": "https://www.serebii.net/pokemonpokopia/events/pumpkaboo'ssweetsurprises.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia event items",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_event_items_in_Pok%C3%A9mon_Pokopia&oldid=4658759",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release"
+    ]
+  },
+  {
+    "name": "Syrupy Apple",
+    "slug": "syrupy-apple",
+    "description": "An apple full of syrup. Bring it to Applin!",
+    "category": "food",
+    "tag": "Food",
+    "imageUrl": null,
+    "locations": [
+      "Syrupy Apple trees on Dream Islands"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii syrupy-apple",
+        "url": "https://www.serebii.net/pokemonpokopia/items/syrupyapple.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "name": "Syrupy Apple seeds",
+    "slug": "syrupy-apple-seeds",
+    "description": "Seeds that grow into Syrupy Apple trees. Try planting them in some soil!",
+    "category": "nature",
+    "tag": null,
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (5 seeds for 5 Syrupy Apples)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii syrupy-apple-seeds",
+        "url": "https://www.serebii.net/pokemonpokopia/items/syrupyappleseeds.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "tag",
+      "imageUrl",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "name": "Syrupy Apple tree sapling",
+    "slug": "syrupy-apple-tree-sapling",
+    "description": "A seedling that sprouted from a Syrupy Apple seed. In time, it will mature into a fruit-bearing tree.",
+    "category": "nature",
+    "tag": null,
+    "imageUrl": null,
+    "locations": [
+      "Grows from planted Syrupy Apple seeds"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii syrupy-apple-tree-sapling",
+        "url": "https://www.serebii.net/pokemonpokopia/items/syrupyappletreesapling.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "tag",
+      "imageUrl",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "name": "Small Syrupy Apple tree",
+    "slug": "small-syrupy-apple-tree",
+    "description": "A rapidly growing Syrupy Apple tree. It will start bearing fruit once it's a little bigger!",
+    "category": "nature",
+    "tag": null,
+    "imageUrl": null,
+    "locations": [
+      "Grows from a Syrupy Apple tree sapling"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii small-syrupy-apple-tree",
+        "url": "https://www.serebii.net/pokemonpokopia/items/smallsyrupyappletree.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "tag",
+      "imageUrl",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "name": "Syrupy Apple tree",
+    "slug": "syrupy-apple-tree",
+    "description": "A tree that grows Syrupy Apples. Fruit that falls from its branches is sure to grow back after a while.",
+    "category": "nature",
+    "tag": null,
+    "imageUrl": null,
+    "locations": [
+      "Grows from a small Syrupy Apple tree"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii syrupy-apple-tree",
+        "url": "https://www.serebii.net/pokemonpokopia/items/syrupyappletree.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "tag",
+      "imageUrl",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "name": "Syrupy Apple tree stump",
+    "slug": "syrupy-apple-tree-stump",
+    "description": "A stump left behind after cutting down a Syrupy Apple tree. Looks like it would make a great seat.",
+    "category": "nature",
+    "tag": null,
+    "imageUrl": null,
+    "locations": [
+      "Left after cutting down a Syrupy Apple tree"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii syrupy-apple-tree-stump",
+        "url": "https://www.serebii.net/pokemonpokopia/items/syrupyappletreestump.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "tag",
+      "imageUrl",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "name": "Apple pie",
+    "slug": "apple-pie",
+    "description": "An apple pie with a golden crust. It looks just like Appletun's body!",
+    "category": "misc",
+    "tag": "Decoration",
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (10 Syrupy Apples)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii apple-pie",
+        "url": "https://www.serebii.net/pokemonpokopia/items/applepie.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "name": "Harvest basket",
+    "slug": "harvest-basket",
+    "description": "A basket bursting with harvested Sweet Apples, Tart Apples, and Syrupy Apples.",
+    "category": "misc",
+    "tag": "Decoration",
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (10 Syrupy Apples)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii harvest-basket",
+        "url": "https://www.serebii.net/pokemonpokopia/items/harvestbasket.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "name": "Cooking utensils",
+    "slug": "cooking-utensils",
+    "description": "Kitchen utensils hanging from a rack that looks like Applin. The rack can be attached to a wall.",
+    "category": "misc",
+    "tag": "Decoration",
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (10 Syrupy Apples)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii cooking-utensils",
+        "url": "https://www.serebii.net/pokemonpokopia/items/cookingutensils.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "name": "Dipplin mixing bowl",
+    "slug": "dipplin-mixing-bowl",
+    "description": "A bowl that looks like Dipplin. It would look great in a kitchen.",
+    "category": "misc",
+    "tag": "Decoration",
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (15 Syrupy Apples)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii dipplin-mixing-bowl",
+        "url": "https://www.serebii.net/pokemonpokopia/items/dipplinmixingbowl.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "name": "Appley blender",
+    "slug": "appley-blender",
+    "description": "A blender that looks like Applin. It's full of apples.",
+    "category": "misc",
+    "tag": "Toy",
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (15 Syrupy Apples)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii appley-blender",
+        "url": "https://www.serebii.net/pokemonpokopia/items/appleyblender.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "imageUrl",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "name": "Kitchen scale",
+    "slug": "kitchen-scale",
+    "description": "This is actually a tool for weighing food, but you can also use it as a plate!",
+    "category": "misc",
+    "tag": null,
+    "imageUrl": null,
+    "locations": [
+      "Pokémon Center exchange (15 Syrupy Apples)"
+    ],
+    "craftingRecipe": null,
+    "recipeStatus": "none",
+    "recipeLocation": null,
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii kitchen-scale",
+        "url": "https://www.serebii.net/pokemonpokopia/items/kitchenscale.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "tag",
+      "imageUrl",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
     "name": "Big treasure chest",
     "slug": "big-treasure-chest",
     "description": "A very large treasure chest. You can fit lots of stuff inside!",
