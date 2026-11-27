@@ -25,9 +25,7 @@ export default fp(async (server: FastifyInstance) => {
           '| `en` | English |',
         version: '1.0.0',
       },
-      servers: [
-        { url: '/api/v1', description: 'API v1' },
-      ],
+      servers: [{ url: '/api/v1', description: 'API v1' }],
       components: {
         parameters: {
           AcceptLanguage: {
@@ -63,7 +61,7 @@ export default fp(async (server: FastifyInstance) => {
     const schema = routeOptions.schema ?? {};
     const existingHeaders =
       schema.headers && typeof schema.headers === 'object' && 'properties' in schema.headers
-        ? (schema.headers as Record<string, unknown>).properties as Record<string, unknown>
+        ? ((schema.headers as Record<string, unknown>).properties as Record<string, unknown>)
         : {};
 
     routeOptions.schema = {

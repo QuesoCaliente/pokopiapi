@@ -7,7 +7,7 @@ export default fp(async (server: FastifyInstance) => {
     max: 100,
     timeWindow: '1 minute',
     keyGenerator: (request) => {
-      return request.headers['x-api-key'] as string || request.ip;
+      return (request.headers['x-api-key'] as string) || request.ip;
     },
     errorResponseBuilder: (_request, context) => ({
       statusCode: 429,
