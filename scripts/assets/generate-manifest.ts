@@ -13,6 +13,11 @@ import { ITEM_SOURCE_ALIASES, POKEMON_FORM_ASSETS } from './reviewed-mappings.js
 const SEREBII_ROBOTS = 'https://www.serebii.net/robots.txt';
 const POKEMON_PAGE = 'https://www.serebii.net/pokemonpokopia/basinpokedex.shtml';
 const ITEMS_PAGE = 'https://www.serebii.net/pokemonpokopia/items.shtml';
+const EVENT_POKEMON_PAGE = 'https://www.serebii.net/pokemonpokopia/eventpokedex.shtml';
+const EVENT_POKEMON_PROVENANCE =
+  'https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Event)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609373';
+const EVENT_ITEMS_PROVENANCE =
+  'https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_event_items_in_Pok%C3%A9mon_Pokopia&oldid=4658759';
 const POKEMON_PROVENANCE =
   'https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pok%C3%A9mon_by_Pok%C3%A9dex_(Basin)_number_in_Pok%C3%A9mon_Pokopia&oldid=4609372';
 const ITEMS_PROVENANCE =
@@ -114,12 +119,19 @@ async function main(): Promise<void> {
   const pokemonHtml = await fetchAllowedPage(POKEMON_PAGE);
   await new Promise((resolveDelay) => setTimeout(resolveDelay, 1000));
   const itemsHtml = await fetchAllowedPage(ITEMS_PAGE);
+  await new Promise((resolveDelay) => setTimeout(resolveDelay, 1000));
+  const eventPokemonHtml = await fetchAllowedPage(EVENT_POKEMON_PAGE);
   const pokemonSources = indexExactRows(
     pokemonHtml,
     POKEMON_PAGE,
     /^\/pokemonpokopia\/pokemon\/small\/[^/]+\.png$/,
   );
   const itemSources = indexExactRows(itemsHtml, ITEMS_PAGE, /^items\/[^/]+\.png$/);
+  const eventPokemonSources = indexExactRows(
+    eventPokemonHtml,
+    EVENT_POKEMON_PAGE,
+    /^\/pokemonpokopia\/pokemon\/small\/[^/]+\.png$/,
+  );
 
   const pokemon = JSON.parse(
     await readFile(resolve(ROOT, 'src/data/pokemon.json'), 'utf8'),
@@ -134,6 +146,13 @@ async function main(): Promise<void> {
       `Expected 50 Pokémon and 219 items, found ${expansionPokemon.length} and ${expansionItems.length}`,
     );
   }
+  // Event records already published to the CDN keep their image; only missing ones are added.
+  const eventPokemon = pokemon.filter(
+    (entry) => entry.contentSource === 'event' && entry.imageUrl === null,
+  );
+  const eventItems = items.filter(
+    (entry) => entry.contentSource === 'event' && entry.imageUrl === null,
+  );
   for (const formAsset of POKEMON_FORM_ASSETS) {
     const record = pokemon.find((entry) => entry.slug === formAsset.recordSlug);
     const form = record?.forms?.find((entry) => entry.slug === formAsset.formSlug);
@@ -160,6 +179,12 @@ async function main(): Promise<void> {
         robots: SEREBII_ROBOTS,
         notes: 'Entries are matched by exact displayed name only; no fuzzy matching is used.',
       },
+      {
+        name: 'Serebii Pokémon Pokopia Event Pokédex',
+        page: EVENT_POKEMON_PAGE,
+        robots: SEREBII_ROBOTS,
+        notes: 'Same Pokopia-specific sprite directory as the Basin Pokédex.',
+      },
     ],
     assets: [
       ...expansionPokemon.map((entry) =>
@@ -185,13 +210,33 @@ async function main(): Promise<void> {
           ),
         ),
       ),
+      ...eventPokemon.map((entry) =>
+        makeEntry(
+          'pokemon',
+          entry,
+          EVENT_POKEMON_PAGE,
+          EVENT_POKEMON_PROVENANCE,
+          eventPokemonSources.get(entry.name),
+        ),
+      ),
+      ...eventItems.map((entry) =>
+        makeEntry(
+          'items',
+          entry,
+          ITEMS_PAGE,
+          EVENT_ITEMS_PROVENANCE,
+          itemSources.get(
+            ITEM_SOURCE_ALIASES[entry.name as keyof typeof ITEM_SOURCE_ALIASES] ?? entry.name,
+          ),
+        ),
+      ),
     ],
   };
   await mkdir(resolve(import.meta.dirname), { recursive: true });
   await writeFile(MANIFEST_PATH, `${JSON.stringify(manifest, null, 2)}\n`);
   const available = manifest.assets.filter((entry) => entry.status === 'available');
   console.log(
-    `Manifest: ${available.filter((entry) => entry.kind === 'pokemon' && !entry.formSlug).length}/50 base Pokémon, ${available.filter((entry) => entry.formSlug).length}/4 Pokémon forms, ${available.filter((entry) => entry.kind === 'items').length}/219 items available.`,
+    `Manifest: ${available.filter((entry) => entry.sourcePage === POKEMON_PAGE && !entry.formSlug).length}/50 base Pokémon, ${available.filter((entry) => entry.formSlug).length}/4 Pokémon forms, ${available.filter((entry) => entry.kind === 'items' && entry.sourcePage === ITEMS_PAGE && entry.provenancePage === ITEMS_PROVENANCE).length}/219 items, ${available.filter((entry) => entry.sourcePage === EVENT_POKEMON_PAGE).length}/${eventPokemon.length} event Pokémon, ${available.filter((entry) => entry.provenancePage === EVENT_ITEMS_PROVENANCE).length}/${eventItems.length} event items available.`,
   );
 }
 

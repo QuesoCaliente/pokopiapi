@@ -22,7 +22,7 @@ describe('Items API', () => {
     await server.close();
   });
 
-  it('should return all 46 event items without duplicating legacy records', async () => {
+  it('should return all 68 event items without duplicating legacy records', async () => {
     const server = await getServer();
     const res = await server.inject({
       method: 'GET',
@@ -30,7 +30,25 @@ describe('Items API', () => {
     });
 
     expect(res.statusCode).toBe(200);
-    expect(res.json().pagination.total).toBe(46);
+    expect(res.json().pagination.total).toBe(68);
+
+    await server.close();
+  });
+
+  it('should list Halloween and Apples to Applin event items', async () => {
+    const server = await buildApp();
+    const halloween = await server.inject({
+      method: 'GET',
+      url: '/api/v1/items?event=pumpkaboo-s-sweet-surprises&limit=100',
+    });
+    const applin = await server.inject({
+      method: 'GET',
+      url: '/api/v1/items?event=apples-to-applin&limit=100&lang=en',
+    });
+
+    expect(halloween.json().pagination.total).toBe(10);
+    expect(applin.json().pagination.total).toBe(12);
+    expect(applin.json().data.map((item: Item) => item.name)).toContain('Syrupy Apple');
 
     await server.close();
   });
@@ -69,7 +87,7 @@ describe('Items API', () => {
     expect(res.statusCode).toBe(200);
     expect(res.json().contentSources).toEqual(['base', 'event', 'expansion-pass']);
     expect(res.json().recipeStatuses).toEqual(['incomplete', 'none', 'verified']);
-    expect(res.json().events).toHaveLength(7);
+    expect(res.json().events).toHaveLength(9);
 
     await server.close();
   });
@@ -79,7 +97,7 @@ describe('Items API', () => {
     const res = await server.inject({ method: 'GET', url: '/api/v1/items/stats' });
 
     expect(res.statusCode).toBe(200);
-    expect(res.json().byContentSource.event).toBe(46);
+    expect(res.json().byContentSource.event).toBe(68);
 
     await server.close();
   });
@@ -89,7 +107,7 @@ describe('Items API', () => {
       readFileSync(resolve(import.meta.dirname, '../src/data/items.json'), 'utf8'),
     ) as unknown[];
 
-    expect(data).toHaveLength(1767);
+    expect(data).toHaveLength(1789);
     expect(new Set(data.map((item) => (item as Item).slug)).size).toBe(data.length);
     for (const item of data) expect(itemSchema.safeParse(item).success).toBe(true);
   });

@@ -117,6 +117,48 @@ describe('Pokemon API', () => {
 
       await server.close();
     });
+
+    it('should filter the Halloween and Apples to Applin event Pokemon', async () => {
+      const server = await getServer();
+      const halloween = await server.inject({
+        method: 'GET',
+        url: '/api/v1/pokemon?event=pumpkaboo-s-sweet-surprises',
+      });
+      const applin = await server.inject({
+        method: 'GET',
+        url: '/api/v1/pokemon?event=apples-to-applin',
+      });
+
+      expect(halloween.json().data.map((p: Pokemon) => p.slug)).toEqual(['pumpkaboo', 'gourgeist']);
+      expect(applin.json().data.map((p: Pokemon) => p.slug)).toEqual([
+        'applin',
+        'flapple',
+        'appletun',
+        'dipplin',
+        'hydrapple',
+      ]);
+
+      await server.close();
+    });
+
+    it('should translate the new Gather specialty and event habitats', async () => {
+      const server = await getServer();
+      const es = await server.inject({ method: 'GET', url: '/api/v1/pokemon/gourgeist' });
+      const en = await server.inject({ method: 'GET', url: '/api/v1/pokemon/gourgeist?lang=en' });
+
+      expect(es.statusCode).toBe(200);
+      expect(es.json().habitats.map((h: { name: string }) => h.name)).toEqual([
+        'Calabazas espeluznantes',
+      ]);
+      expect(en.json().habitats.map((h: { name: string }) => h.name)).toEqual(['Creepy pumpkins']);
+      expect(en.json().specialties.map((s: { name: string }) => s.name)).toEqual([
+        'Hype',
+        'Gather',
+      ]);
+      expect(en.json().types.map((t: { name: string }) => t.name)).toEqual(['Ghost', 'Grass']);
+
+      await server.close();
+    });
   });
 
   describe('GET /pokemon/:slugOrNumber', () => {
@@ -145,12 +187,12 @@ describe('Pokemon API', () => {
 
     it('should find the latest Event Pokedex entry', async () => {
       const server = await getServer();
-      const res = await server.inject({ method: 'GET', url: '/api/v1/pokemon/milotic' });
+      const res = await server.inject({ method: 'GET', url: '/api/v1/pokemon/hydrapple' });
 
       expect(res.statusCode).toBe(200);
       expect(res.json()).toMatchObject({
-        localNumber: 'E007',
-        dex: { kind: 'event', number: '007' },
+        localNumber: 'E014',
+        dex: { kind: 'event', number: '014' },
         dataStatus: 'partial',
       });
 
@@ -181,7 +223,7 @@ describe('Pokemon API', () => {
       expect(body.types.length).toBeGreaterThan(0);
       expect(body.dexes).toEqual(['basin', 'event', 'regular']);
       expect(body.contentSources).toContain('expansion-pass');
-      expect(body.events).toHaveLength(4);
+      expect(body.events).toHaveLength(6);
       expect(body.forms).toEqual(['Female', 'Male']);
 
       await server.close();
@@ -198,8 +240,8 @@ describe('Pokemon API', () => {
       expect(body.total).toBeGreaterThan(300);
       expect(body.byType).toBeInstanceOf(Array);
       expect(body.bySpecialty).toBeInstanceOf(Array);
-      expect(body.total).toBe(365);
-      expect(body.byDex).toEqual({ regular: 308, event: 7, basin: 50 });
+      expect(body.total).toBe(372);
+      expect(body.byDex).toEqual({ regular: 308, event: 14, basin: 50 });
 
       await server.close();
     });
@@ -210,7 +252,7 @@ describe('Pokemon API', () => {
       readFileSync(resolve(import.meta.dirname, '../src/data/pokemon.json'), 'utf8'),
     ) as unknown[];
 
-    expect(data).toHaveLength(365);
+    expect(data).toHaveLength(372);
     for (const pokemon of data) expect(pokemonSchema.safeParse(pokemon).success).toBe(true);
   });
 
@@ -221,20 +263,20 @@ describe('Pokemon API', () => {
 
     expect(
       data.filter((pokemon) => pokemon.dex?.kind === 'event').map((p) => p.localNumber),
-    ).toEqual(Array.from({ length: 7 }, (_, index) => `E${String(index + 1).padStart(3, '0')}`));
+    ).toEqual(Array.from({ length: 14 }, (_, index) => `E${String(index + 1).padStart(3, '0')}`));
     expect(
       data.filter((pokemon) => pokemon.dex?.kind === 'basin').map((p) => p.localNumber),
     ).toEqual(Array.from({ length: 50 }, (_, index) => `B${String(index + 1).padStart(3, '0')}`));
   });
 
-  it('should model all seven Event Pokemon through four real events', () => {
+  it('should model all fourteen Event Pokemon through six real events', () => {
     const data = JSON.parse(
       readFileSync(resolve(import.meta.dirname, '../src/data/pokemon.json'), 'utf8'),
     ) as Pokemon[];
     const eventPokemon = data.filter((pokemon) => pokemon.dex?.kind === 'event');
 
-    expect(eventPokemon).toHaveLength(7);
-    expect(new Set(eventPokemon.map((pokemon) => pokemon.event?.slug)).size).toBe(4);
+    expect(eventPokemon).toHaveLength(14);
+    expect(new Set(eventPokemon.map((pokemon) => pokemon.event?.slug)).size).toBe(6);
     expect(eventPokemon.every((pokemon) => pokemon.contentSource === 'event')).toBe(true);
     expect(eventPokemon.every((pokemon) => pokemon.provenance?.length)).toBe(true);
   });

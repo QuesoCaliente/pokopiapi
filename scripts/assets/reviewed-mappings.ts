@@ -14,6 +14,9 @@ export const ITEM_SOURCE_ALIASES = {
   '♪ Hotel Z': 'Hotel Z',
   // All four biome-labelled source rows currently publish the same PNG checksum.
   'Farm soil': 'Farm soil (Wastelands)',
+  // Event items whose Serebii label differs only by capitalization.
+  'Prism Scale': 'Prism scale',
+  'Star-shaped dresser': 'Star-shaped Dresser',
 } as const;
 
 export const POKEMON_FORM_ASSETS = [

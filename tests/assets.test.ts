@@ -51,10 +51,12 @@ const expectedAliases = {
   '♪ Cascarrafa': 'Cascarrafa',
   '♪ Hotel Z': 'Hotel Z',
   'Farm soil': 'Farm soil (Wastelands)',
+  'Prism Scale': 'Prism scale',
+  'Star-shaped dresser': 'Star-shaped Dresser',
 };
 
 describe('reviewed expansion mappings', () => {
-  it('contains only the 14 audited item aliases', () => {
+  it('contains only the 16 audited item aliases', () => {
     expect(ITEM_SOURCE_ALIASES).toEqual(expectedAliases);
   });
 
@@ -142,6 +144,38 @@ describe('verified data updates', () => {
   });
 });
 
+describe('generated event manifest', () => {
+  it('covers every Event Pokémon and item that still lacks an image', async () => {
+    const manifest = JSON.parse(
+      await readFile(new URL('../scripts/assets/manifest.json', import.meta.url), 'utf8'),
+    ) as AssetManifest;
+    const eventAssets = manifest.assets.filter(
+      (asset) =>
+        asset.provenancePage.includes('(Event)') || asset.provenancePage.includes('event_items'),
+    );
+
+    expect(eventAssets.filter((asset) => asset.kind === 'pokemon').map((a) => a.slug)).toEqual([
+      'jirachi',
+      'feebas',
+      'milotic',
+      'pumpkaboo',
+      'gourgeist',
+      'applin',
+      'flapple',
+      'appletun',
+      'dipplin',
+      'hydrapple',
+    ]);
+    expect(eventAssets.filter((asset) => asset.kind === 'items')).toHaveLength(45);
+    expect(eventAssets.every((asset) => asset.status === 'available')).toBe(true);
+    expect(
+      eventAssets.every(
+        (asset) => asset.expectedCdnKey === `images/${asset.kind}/${asset.slug}.png`,
+      ),
+    ).toBe(true);
+  });
+});
+
 describe('generated expansion manifest', () => {
   it('covers all base identities and four forms without assigning parent gender images', async () => {
     const manifest = JSON.parse(
@@ -150,7 +184,12 @@ describe('generated expansion manifest', () => {
     const pokemon = JSON.parse(
       await readFile(new URL('../src/data/pokemon.json', import.meta.url), 'utf8'),
     ) as DataRecord[];
-    const baseAssets = manifest.assets.filter((asset) => !asset.formSlug);
+    const baseAssets = manifest.assets.filter(
+      (asset) =>
+        !asset.formSlug &&
+        !asset.provenancePage.includes('(Event)') &&
+        !asset.provenancePage.includes('event_items'),
+    );
     const formAssets = manifest.assets.filter((asset) => asset.formSlug);
     expect(baseAssets.filter((asset) => asset.kind === 'pokemon')).toHaveLength(50);
     expect(baseAssets.filter((asset) => asset.kind === 'items')).toHaveLength(219);

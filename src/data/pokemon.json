@@ -30789,7 +30789,7 @@
     "spawnZones": [],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/jirachi.png",
     "produces": null,
     "dex": {
       "kind": "event",
@@ -30831,7 +30831,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "release"
     ]
@@ -30869,7 +30868,7 @@
     "spawnZones": [],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/feebas.png",
     "produces": null,
     "dex": {
       "kind": "event",
@@ -30911,7 +30910,6 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "release"
     ]
@@ -30953,7 +30951,7 @@
     "spawnZones": [],
     "previousEvolution": null,
     "nextEvolution": null,
-    "imageUrl": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/milotic.png",
     "produces": null,
     "dex": {
       "kind": "event",
@@ -30995,9 +30993,853 @@
       "climates",
       "timeAvailability",
       "evolutions",
-      "imageUrl",
       "produces",
       "release"
+    ]
+  },
+  {
+    "localNumber": "E008",
+    "nationalNumber": 710,
+    "name": "Pumpkaboo",
+    "slug": "pumpkaboo",
+    "types": [
+      {
+        "name": "Fantasma",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/ghost.png"
+      },
+      {
+        "name": "Planta",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/grass.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Hype",
+        "iconUrl": null
+      }
+    ],
+    "height": 0.4,
+    "weight": 5,
+    "idealEnvironment": "Iluminado",
+    "classification": "evento",
+    "habitats": [
+      {
+        "name": "Puesto de truco o trato",
+        "rarity": 1,
+        "iconUrl": null
+      }
+    ],
+    "climates": [
+      {
+        "name": "Soleado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/sunny.png"
+      },
+      {
+        "name": "Nublado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/cloudy.png"
+      },
+      {
+        "name": "Lluvioso",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/rainy.png"
+      }
+    ],
+    "timeAvailability": [
+      {
+        "name": "Mañana",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/morning.png"
+      },
+      {
+        "name": "Día",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/day.png"
+      },
+      {
+        "name": "Tarde",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/afternoon.png"
+      },
+      {
+        "name": "Noche",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
+      }
+    ],
+    "spawnZones": [],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pumpkaboo.png",
+    "produces": null,
+    "dex": {
+      "kind": "event",
+      "number": "008"
+    },
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-10-17T05:00",
+      "endsAt": "2026-11-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "pumpkaboo-s-sweet-surprises",
+      "name": "Pumpkaboo's Sweet Surprises"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Pumpkaboo's Sweet Surprises",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Pumpkaboo%27s_Sweet_Surprises&oldid=4654830",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Pumpkaboo's Sweet Surprises",
+        "url": "https://www.serebii.net/pokemonpokopia/events/pumpkaboo'ssweetsurprises.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Pumpkaboo",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Pumpkaboo_(Pok%C3%A9mon)&oldid=4651764",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Pumpkaboo",
+        "url": "https://www.serebii.net/pokemonpokopia/pokedex/pumpkaboo.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "evolutions",
+      "produces",
+      "release"
+    ]
+  },
+  {
+    "localNumber": "E009",
+    "nationalNumber": 711,
+    "name": "Gourgeist",
+    "slug": "gourgeist",
+    "types": [
+      {
+        "name": "Fantasma",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/ghost.png"
+      },
+      {
+        "name": "Planta",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/grass.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Hype",
+        "iconUrl": null
+      },
+      {
+        "name": "Gather",
+        "iconUrl": null
+      }
+    ],
+    "height": 0.9,
+    "weight": 12.5,
+    "idealEnvironment": "Iluminado",
+    "classification": "evento",
+    "habitats": [
+      {
+        "name": "Calabazas espeluznantes",
+        "rarity": 1,
+        "iconUrl": null
+      }
+    ],
+    "climates": [
+      {
+        "name": "Soleado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/sunny.png"
+      },
+      {
+        "name": "Nublado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/cloudy.png"
+      },
+      {
+        "name": "Lluvioso",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/rainy.png"
+      }
+    ],
+    "timeAvailability": [
+      {
+        "name": "Mañana",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/morning.png"
+      },
+      {
+        "name": "Día",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/day.png"
+      },
+      {
+        "name": "Tarde",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/afternoon.png"
+      },
+      {
+        "name": "Noche",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
+      }
+    ],
+    "spawnZones": [],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gourgeist.png",
+    "produces": null,
+    "dex": {
+      "kind": "event",
+      "number": "009"
+    },
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "annual-event",
+      "startsAt": "2026-10-17T05:00",
+      "endsAt": "2026-11-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": true
+    },
+    "event": {
+      "slug": "pumpkaboo-s-sweet-surprises",
+      "name": "Pumpkaboo's Sweet Surprises"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Bulbapedia Pumpkaboo's Sweet Surprises",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Pumpkaboo%27s_Sweet_Surprises&oldid=4654830",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Pumpkaboo's Sweet Surprises",
+        "url": "https://www.serebii.net/pokemonpokopia/events/pumpkaboo'ssweetsurprises.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Bulbapedia Gourgeist",
+        "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Gourgeist_(Pok%C3%A9mon)&oldid=4651720",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Gourgeist",
+        "url": "https://www.serebii.net/pokemonpokopia/pokedex/gourgeist.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "evolutions",
+      "produces",
+      "release"
+    ]
+  },
+  {
+    "localNumber": "E010",
+    "nationalNumber": 840,
+    "name": "Applin",
+    "slug": "applin",
+    "types": [
+      {
+        "name": "Planta",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/grass.png"
+      },
+      {
+        "name": "Dragon",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/dragon.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Abonar",
+        "iconUrl": "https://cdn.pokopiapi.com/images/specialties/fertilize.png"
+      }
+    ],
+    "height": 0.2,
+    "weight": 0.5,
+    "idealEnvironment": "Iluminado",
+    "classification": "evento",
+    "habitats": [
+      {
+        "name": "Abundant apples",
+        "rarity": 1,
+        "iconUrl": null
+      },
+      {
+        "name": "Sweet apple pie",
+        "rarity": 1,
+        "iconUrl": null
+      },
+      {
+        "name": "Apple kitchen",
+        "rarity": 1,
+        "iconUrl": null
+      }
+    ],
+    "climates": [
+      {
+        "name": "Soleado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/sunny.png"
+      },
+      {
+        "name": "Nublado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/cloudy.png"
+      },
+      {
+        "name": "Lluvioso",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/rainy.png"
+      }
+    ],
+    "timeAvailability": [
+      {
+        "name": "Mañana",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/morning.png"
+      },
+      {
+        "name": "Día",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/day.png"
+      },
+      {
+        "name": "Tarde",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/afternoon.png"
+      },
+      {
+        "name": "Noche",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
+      }
+    ],
+    "spawnZones": [],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/applin.png",
+    "produces": null,
+    "dex": {
+      "kind": "event",
+      "number": "010"
+    },
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Event Pokédex",
+        "url": "https://www.serebii.net/pokemonpokopia/eventpokedex.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/pokedex/applin.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "evolutions",
+      "produces",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "E011",
+    "nationalNumber": 841,
+    "name": "Flapple",
+    "slug": "flapple",
+    "types": [
+      {
+        "name": "Planta",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/grass.png"
+      },
+      {
+        "name": "Dragon",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/dragon.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Abonar",
+        "iconUrl": "https://cdn.pokopiapi.com/images/specialties/fertilize.png"
+      },
+      {
+        "name": "Volar",
+        "iconUrl": "https://cdn.pokopiapi.com/images/specialties/fly.png"
+      }
+    ],
+    "height": 0.3,
+    "weight": 1,
+    "idealEnvironment": "Iluminado",
+    "classification": "evento",
+    "habitats": [
+      {
+        "name": "Apple kitchen",
+        "rarity": 1,
+        "iconUrl": null
+      }
+    ],
+    "climates": [
+      {
+        "name": "Soleado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/sunny.png"
+      },
+      {
+        "name": "Nublado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/cloudy.png"
+      },
+      {
+        "name": "Lluvioso",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/rainy.png"
+      }
+    ],
+    "timeAvailability": [
+      {
+        "name": "Mañana",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/morning.png"
+      },
+      {
+        "name": "Día",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/day.png"
+      },
+      {
+        "name": "Tarde",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/afternoon.png"
+      },
+      {
+        "name": "Noche",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
+      }
+    ],
+    "spawnZones": [],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/flapple.png",
+    "produces": null,
+    "dex": {
+      "kind": "event",
+      "number": "011"
+    },
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Event Pokédex",
+        "url": "https://www.serebii.net/pokemonpokopia/eventpokedex.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Flapple",
+        "url": "https://www.serebii.net/pokemonpokopia/pokedex/flapple.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "evolutions",
+      "produces",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "E012",
+    "nationalNumber": 842,
+    "name": "Appletun",
+    "slug": "appletun",
+    "types": [
+      {
+        "name": "Planta",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/grass.png"
+      },
+      {
+        "name": "Dragon",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/dragon.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Abonar",
+        "iconUrl": "https://cdn.pokopiapi.com/images/specialties/fertilize.png"
+      },
+      {
+        "name": "Pulverizar",
+        "iconUrl": "https://cdn.pokopiapi.com/images/specialties/pulverize.png"
+      }
+    ],
+    "height": 0.4,
+    "weight": 13,
+    "idealEnvironment": "Iluminado",
+    "classification": "evento",
+    "habitats": [
+      {
+        "name": "Sweet apple pie",
+        "rarity": 1,
+        "iconUrl": null
+      }
+    ],
+    "climates": [
+      {
+        "name": "Soleado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/sunny.png"
+      },
+      {
+        "name": "Nublado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/cloudy.png"
+      },
+      {
+        "name": "Lluvioso",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/rainy.png"
+      }
+    ],
+    "timeAvailability": [
+      {
+        "name": "Mañana",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/morning.png"
+      },
+      {
+        "name": "Día",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/day.png"
+      },
+      {
+        "name": "Tarde",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/afternoon.png"
+      },
+      {
+        "name": "Noche",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
+      }
+    ],
+    "spawnZones": [],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/appletun.png",
+    "produces": null,
+    "dex": {
+      "kind": "event",
+      "number": "012"
+    },
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Event Pokédex",
+        "url": "https://www.serebii.net/pokemonpokopia/eventpokedex.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Appletun",
+        "url": "https://www.serebii.net/pokemonpokopia/pokedex/appletun.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "evolutions",
+      "produces",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "E013",
+    "nationalNumber": 1011,
+    "name": "Dipplin",
+    "slug": "dipplin",
+    "types": [
+      {
+        "name": "Planta",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/grass.png"
+      },
+      {
+        "name": "Dragon",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/dragon.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Abonar",
+        "iconUrl": "https://cdn.pokopiapi.com/images/specialties/fertilize.png"
+      },
+      {
+        "name": "Reciclar",
+        "iconUrl": "https://cdn.pokopiapi.com/images/specialties/recycle.png"
+      }
+    ],
+    "height": 0.4,
+    "weight": 4.4,
+    "idealEnvironment": "Iluminado",
+    "classification": "evento",
+    "habitats": [
+      {
+        "name": "Abundant apples",
+        "rarity": 2,
+        "iconUrl": null
+      }
+    ],
+    "climates": [
+      {
+        "name": "Soleado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/sunny.png"
+      },
+      {
+        "name": "Nublado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/cloudy.png"
+      },
+      {
+        "name": "Lluvioso",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/rainy.png"
+      }
+    ],
+    "timeAvailability": [
+      {
+        "name": "Mañana",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/morning.png"
+      },
+      {
+        "name": "Día",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/day.png"
+      },
+      {
+        "name": "Tarde",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/afternoon.png"
+      },
+      {
+        "name": "Noche",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
+      }
+    ],
+    "spawnZones": [],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dipplin.png",
+    "produces": null,
+    "dex": {
+      "kind": "event",
+      "number": "013"
+    },
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Event Pokédex",
+        "url": "https://www.serebii.net/pokemonpokopia/eventpokedex.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Dipplin",
+        "url": "https://www.serebii.net/pokemonpokopia/pokedex/dipplin.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "evolutions",
+      "produces",
+      "release",
+      "availability.requiresInternet"
+    ]
+  },
+  {
+    "localNumber": "E014",
+    "nationalNumber": 1019,
+    "name": "Hydrapple",
+    "slug": "hydrapple",
+    "types": [
+      {
+        "name": "Planta",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/grass.png"
+      },
+      {
+        "name": "Dragon",
+        "iconUrl": "https://cdn.pokopiapi.com/images/types/dragon.png"
+      }
+    ],
+    "specialties": [
+      {
+        "name": "Negociar",
+        "iconUrl": "https://cdn.pokopiapi.com/images/specialties/negotiate.png"
+      },
+      {
+        "name": "Reciclar",
+        "iconUrl": "https://cdn.pokopiapi.com/images/specialties/recycle.png"
+      }
+    ],
+    "height": 1.8,
+    "weight": 93,
+    "idealEnvironment": "Iluminado",
+    "classification": "evento",
+    "habitats": [
+      {
+        "name": "Abundant apples",
+        "rarity": 2,
+        "iconUrl": null
+      }
+    ],
+    "climates": [
+      {
+        "name": "Soleado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/sunny.png"
+      },
+      {
+        "name": "Nublado",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/cloudy.png"
+      },
+      {
+        "name": "Lluvioso",
+        "iconUrl": "https://cdn.pokopiapi.com/images/climates/rainy.png"
+      }
+    ],
+    "timeAvailability": [
+      {
+        "name": "Mañana",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/morning.png"
+      },
+      {
+        "name": "Día",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/day.png"
+      },
+      {
+        "name": "Tarde",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/afternoon.png"
+      },
+      {
+        "name": "Noche",
+        "iconUrl": "https://cdn.pokopiapi.com/images/time/night.png"
+      }
+    ],
+    "spawnZones": [],
+    "previousEvolution": null,
+    "nextEvolution": null,
+    "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/hydrapple.png",
+    "produces": null,
+    "dex": {
+      "kind": "event",
+      "number": "014"
+    },
+    "contentSource": "event",
+    "release": null,
+    "availability": {
+      "kind": "limited",
+      "startsAt": "2026-11-16T05:00",
+      "endsAt": "2026-12-01T04:59",
+      "timeZone": "Nintendo Switch 2 system time",
+      "requiresInternet": null
+    },
+    "event": {
+      "slug": "apples-to-applin",
+      "name": "Apples to Applin"
+    },
+    "provenance": [
+      {
+        "source": "community",
+        "name": "Serebii Event Pokédex",
+        "url": "https://www.serebii.net/pokemonpokopia/eventpokedex.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Apples to Applin",
+        "url": "https://www.serebii.net/pokemonpokopia/events/applestoapplin.shtml",
+        "verifiedAt": "2026-11-27"
+      },
+      {
+        "source": "community",
+        "name": "Serebii Hydrapple",
+        "url": "https://www.serebii.net/pokemonpokopia/pokedex/hydrapple.shtml",
+        "verifiedAt": "2026-11-27"
+      }
+    ],
+    "forms": [],
+    "dataStatus": "partial",
+    "unknownFields": [
+      "evolutions",
+      "produces",
+      "release",
+      "availability.requiresInternet"
     ]
   }
 ]
