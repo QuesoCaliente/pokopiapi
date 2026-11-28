@@ -41,11 +41,6 @@ function normalize(s: string): string {
     .replace(/[\u0300-\u036f]/g, '');
 }
 
-function dexKind(pokemon: Pokemon): 'regular' | 'event' | 'basin' {
-  if (pokemon.dex) return pokemon.dex.kind;
-  return pokemon.classification === 'evento' ? 'event' : 'regular';
-}
-
 export function findAll(query: PokemonQuery) {
   let filtered = allPokemon;
 
@@ -85,14 +80,11 @@ export function findAll(query: PokemonQuery) {
   }
 
   if (query.dex) {
-    filtered = filtered.filter((p) => dexKind(p) === query.dex);
+    filtered = filtered.filter((p) => p.dex.kind === query.dex);
   }
 
   if (query.contentSource) {
-    filtered = filtered.filter((p) => {
-      const source = p.contentSource ?? (p.classification === 'evento' ? 'event' : 'base');
-      return source === query.contentSource;
-    });
+    filtered = filtered.filter((p) => p.contentSource === query.contentSource);
   }
 
   if (query.event) {
@@ -152,14 +144,8 @@ export function getFilters() {
     materials: allMaterials,
     habitats: allHabitats,
     classifications: allClassifications,
-    dexes: [...new Set(allPokemon.map(dexKind))].sort(),
-    contentSources: [
-      ...new Set(
-        allPokemon.map(
-          (p) => p.contentSource ?? (p.classification === 'evento' ? 'event' : 'base'),
-        ),
-      ),
-    ].sort(),
+    dexes: [...new Set(allPokemon.map((p) => p.dex.kind))].sort(),
+    contentSources: [...new Set(allPokemon.map((p) => p.contentSource))].sort(),
     events: [
       ...new Map(allPokemon.filter((p) => p.event).map((p) => [p.event!.slug, p.event!])).values(),
     ].sort((a, b) => a.name.localeCompare(b.name)),
@@ -185,15 +171,13 @@ export function getStats() {
     byDex: Object.fromEntries(
       ['regular', 'event', 'basin'].map((dex) => [
         dex,
-        allPokemon.filter((p) => dexKind(p) === dex).length,
+        allPokemon.filter((p) => p.dex.kind === dex).length,
       ]),
     ),
     byContentSource: Object.fromEntries(
       ['base', 'free-update', 'event', 'expansion-pass'].map((source) => [
         source,
-        allPokemon.filter(
-          (p) => (p.contentSource ?? (p.classification === 'evento' ? 'event' : 'base')) === source,
-        ).length,
+        allPokemon.filter((p) => p.contentSource === source).length,
       ]),
     ),
     partial: allPokemon.filter((p) => p.dataStatus === 'partial').length,

@@ -50,6 +50,40 @@ describe('Pokemon API', () => {
       await server.close();
     });
 
+    it('should return dex and contentSource for regular Pokemon', async () => {
+      const server = await getServer();
+      const res = await server.inject({ method: 'GET', url: '/api/v1/pokemon/bulbasaur' });
+
+      expect(res.statusCode).toBe(200);
+      expect(res.json()).toMatchObject({
+        dex: { kind: 'regular', number: '001' },
+        contentSource: 'base',
+      });
+
+      await server.close();
+    });
+
+    it('should keep the deprecated classification filter working', async () => {
+      const server = await getServer();
+      const res = await server.inject({
+        method: 'GET',
+        url: '/api/v1/pokemon?classification=evento&limit=100',
+      });
+
+      expect(res.statusCode).toBe(200);
+      expect(res.json().pagination.total).toBe(14);
+
+      const docs = await server.inject({ method: 'GET', url: '/docs/json' });
+      const parameter = docs
+        .json()
+        .paths['/pokemon'].get.parameters.find(
+          (p: { name: string }) => p.name === 'classification',
+        );
+      expect(parameter.deprecated).toBe(true);
+
+      await server.close();
+    });
+
     it('should search by name', async () => {
       const server = await getServer();
       const res = await server.inject({ method: 'GET', url: '/api/v1/pokemon?search=pikachu' });
@@ -267,6 +301,18 @@ describe('Pokemon API', () => {
     expect(
       data.filter((pokemon) => pokemon.dex?.kind === 'basin').map((p) => p.localNumber),
     ).toEqual(Array.from({ length: 50 }, (_, index) => `B${String(index + 1).padStart(3, '0')}`));
+  });
+
+  it('should declare dex and contentSource on every Pokemon', () => {
+    const data = JSON.parse(
+      readFileSync(resolve(import.meta.dirname, '../src/data/pokemon.json'), 'utf8'),
+    ) as Pokemon[];
+    const regular = data.filter((pokemon) => pokemon.dex?.kind === 'regular');
+
+    expect(data.every((pokemon) => pokemon.dex && pokemon.contentSource)).toBe(true);
+    expect(regular).toHaveLength(308);
+    expect(regular.every((pokemon) => pokemon.dex?.number === pokemon.localNumber)).toBe(true);
+    expect(regular.every((pokemon) => pokemon.contentSource === 'base')).toBe(true);
   });
 
   it('should model all fourteen Event Pokemon through six real events', () => {

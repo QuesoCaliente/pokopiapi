@@ -22,7 +22,9 @@ export default async function pokemonRoutes(server: FastifyInstance) {
           specialty: { type: 'string', description: 'Filter by specialty (e.g., Quemar, Volar)' },
           classification: {
             type: 'string',
-            description: 'Filter by classification (comun, evento)',
+            deprecated: true,
+            description:
+              'Deprecated: use dex or contentSource instead. Filter by classification (comun, evento)',
           },
           climate: {
             type: 'string',

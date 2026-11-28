@@ -7,6 +7,24 @@ import { resolve } from 'node:path';
 
 export default fp(async (server: FastifyInstance) => {
   await server.register(fastifySwagger, {
+    // Lift `deprecated` from a parameter's schema to the parameter itself so Swagger UI flags it.
+    transformObject: (documentObject) => {
+      if (!('openapiObject' in documentObject)) return documentObject.swaggerObject;
+      const spec = documentObject.openapiObject;
+      for (const pathItem of Object.values(spec.paths ?? {})) {
+        for (const operation of Object.values(pathItem ?? {})) {
+          const parameters = (operation as { parameters?: unknown[] })?.parameters;
+          if (!Array.isArray(parameters)) continue;
+          for (const parameter of parameters as {
+            deprecated?: boolean;
+            schema?: { deprecated?: boolean };
+          }[]) {
+            if (parameter.schema?.deprecated) parameter.deprecated = true;
+          }
+        }
+      }
+      return spec;
+    },
     openapi: {
       info: {
         title: 'Pokopia API',

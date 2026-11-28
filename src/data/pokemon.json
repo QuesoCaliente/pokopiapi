@@ -82,7 +82,12 @@
       "name": "ivysaur"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/bulbasaur.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "001"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "002",
@@ -170,7 +175,12 @@
       "name": "venusaur"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ivysaur.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "002"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "003",
@@ -265,7 +275,12 @@
     "produces": {
       "name": "Hoja",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/leaf.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "003"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "004",
@@ -344,7 +359,12 @@
       "name": "charmeleon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/charmander.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "004"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "005",
@@ -423,7 +443,12 @@
       "name": "charizard"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/charmeleon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "005"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "006",
@@ -515,7 +540,12 @@
       "name": "squirtle"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/charizard.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "006"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "007",
@@ -599,7 +629,12 @@
       "name": "wartortle"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/squirtle.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "007"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "008",
@@ -678,7 +713,12 @@
       "name": "blastoise"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/wartortle.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "008"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "009",
@@ -766,7 +806,12 @@
       "name": "pidgey"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/blastoise.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "009"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "010",
@@ -858,7 +903,12 @@
       "name": "pidgeotto"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pidgey.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "010"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "011",
@@ -945,7 +995,12 @@
       "name": "pidgeot"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pidgeotto.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "011"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "012",
@@ -1032,7 +1087,12 @@
       "name": "oddish"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pidgeot.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "012"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "013",
@@ -1115,7 +1175,12 @@
       "name": "gloom"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/oddish.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "013"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "014",
@@ -1198,7 +1263,12 @@
       "name": "vileplume"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gloom.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "014"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "015",
@@ -1288,7 +1358,12 @@
     "produces": {
       "name": "Hoja",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/leaf.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "015"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "016",
@@ -1371,7 +1446,12 @@
       "name": "paras"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/bellosom.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "016"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "017",
@@ -1459,7 +1539,12 @@
       "name": "parasect"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/paras.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "017"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "018",
@@ -1547,7 +1632,12 @@
       "name": "venonat"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/parasect.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "018"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "019",
@@ -1635,7 +1725,12 @@
       "name": "venomoth"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/venonat.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "019"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "020",
@@ -1723,7 +1818,12 @@
       "name": "bellsprout"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/venomoth.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "020"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "021",
@@ -1813,7 +1913,12 @@
     "produces": {
       "name": "Hiedra trenzada",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/braided-ivy.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "021"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "022",
@@ -1908,7 +2013,12 @@
     "produces": {
       "name": "Hiedra trenzada",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/braided-ivy.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "022"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "023",
@@ -2000,7 +2110,12 @@
       "name": "slowpoke"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/victreebel.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "023"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "024",
@@ -2087,7 +2202,12 @@
       "name": "slowbro"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/slowpoke.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "024"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "025",
@@ -2184,7 +2304,12 @@
       "name": "slowking"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/slowbro.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "025"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "026",
@@ -2281,7 +2406,12 @@
       "name": "magnemite"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/slowking.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "026"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "027",
@@ -2364,7 +2494,12 @@
       "name": "magneton"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/magnemite.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "027"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "028",
@@ -2452,7 +2587,12 @@
       "name": "magnezone"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/magneton.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "028"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "029",
@@ -2544,7 +2684,12 @@
       "name": "onix"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/magnezone.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "029"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "030",
@@ -2631,7 +2776,12 @@
       "name": "steelix"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/onix.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "030"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "031",
@@ -2718,7 +2868,12 @@
       "name": "cubone"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/steelix.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "031"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "032",
@@ -2797,7 +2952,12 @@
       "name": "marowak"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cubone.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "032"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "033",
@@ -2876,7 +3036,12 @@
       "name": "tyrogue"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/marowak.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "033"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "034",
@@ -2955,7 +3120,12 @@
       "name": "hitmonlee"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tyrogue.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "034"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "035",
@@ -3034,7 +3204,12 @@
       "name": "hitmonchan"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/hitmonlee.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "035"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "036",
@@ -3113,7 +3288,12 @@
       "name": "hitmontop"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/hitmonchan.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "036"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "037",
@@ -3192,7 +3372,12 @@
       "name": "koffing"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/hitmontop.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "037"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "038",
@@ -3267,7 +3452,12 @@
       "name": "weezing"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/koffing.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "038"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "039",
@@ -3347,7 +3537,12 @@
       "name": "tangela"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/weezing.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "039"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "040",
@@ -3429,7 +3624,12 @@
     "produces": {
       "name": "Hiedra trenzada",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/braided-ivy.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "040"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "041",
@@ -3515,7 +3715,12 @@
     "produces": {
       "name": "Hiedra trenzada",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/braided-ivy.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "041"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "041",
@@ -3594,7 +3799,12 @@
       "name": "scyther"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/professor-tangrowth.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "041"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "042",
@@ -3677,7 +3887,12 @@
       "name": "scizor"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/scyther.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "042"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "043",
@@ -3756,7 +3971,12 @@
       "name": "pinsir"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/scizor.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "043"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "044",
@@ -3839,7 +4059,12 @@
       "name": "magikarp"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pinsir.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "044"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "045",
@@ -3913,7 +4138,12 @@
       "name": "gyarados"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/magikarp.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "045"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "046",
@@ -3996,7 +4226,12 @@
       "name": "ditto"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gyarados.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "046"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "047",
@@ -4062,7 +4297,12 @@
       "name": "hoothoot"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ditto.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "047"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "048",
@@ -4159,7 +4399,12 @@
       "name": "noctowl"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/hoothoot.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "048"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "049",
@@ -4251,7 +4496,12 @@
       "name": "heracross"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/noctowl.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "049"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "050",
@@ -4338,7 +4588,12 @@
       "name": "volbeat"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/heracross.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "050"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "051",
@@ -4417,7 +4672,12 @@
       "name": "illumise"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/volbeat.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "051"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "052",
@@ -4496,7 +4756,12 @@
       "name": "gulpin"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/illumise.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "052"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "053",
@@ -4571,7 +4836,12 @@
       "name": "swalot"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gulpin.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "053"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "054",
@@ -4650,7 +4920,12 @@
       "name": "cacnea"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/swalot.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "054"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "055",
@@ -4733,7 +5008,12 @@
       "name": "cacturne"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cacnea.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "055"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "056",
@@ -4819,7 +5099,12 @@
     "produces": {
       "name": "Rama gruesa",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/thick-branch.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "056"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "057",
@@ -4905,7 +5190,12 @@
     "produces": {
       "name": "Miel",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/honey.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "057"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "058",
@@ -4992,7 +5282,12 @@
       "name": "shellos"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/vespiqueen.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "058"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "059",
@@ -5071,7 +5366,12 @@
       "name": "gastrodon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/shellos-east-sea.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "059"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "059",
@@ -5150,7 +5450,12 @@
       "name": "gastrodon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/shellos.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "059"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "060",
@@ -5237,7 +5542,12 @@
       "name": "drifloon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gastrodon-east-sea.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "060"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "060",
@@ -5324,7 +5634,12 @@
       "name": "drifloon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gastrodon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "060"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "061",
@@ -5417,7 +5732,12 @@
       "name": "drifblim"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/drifloon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "061"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "062",
@@ -5504,7 +5824,12 @@
       "name": "drilbur"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/drifblim.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "062"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "063",
@@ -5583,7 +5908,12 @@
       "name": "excadrill"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/drilbur.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "063"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "064",
@@ -5670,7 +6000,12 @@
       "name": "timburr"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/excadrill.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "064"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "065",
@@ -5749,7 +6084,12 @@
       "name": "gurdurr"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/timburr.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "065"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "066",
@@ -5833,7 +6173,12 @@
       "name": "conkeldurr"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gurdurr.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "066"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "067",
@@ -5916,7 +6261,12 @@
       "name": "litwick"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/conkeldurr.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "067"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "068",
@@ -6004,7 +6354,12 @@
       "name": "lampent"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/litwick.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "068"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "069",
@@ -6092,7 +6447,12 @@
       "name": "chandelure"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lampent.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "069"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "070",
@@ -6175,7 +6535,12 @@
       "name": "axew"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/chandelure.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "070"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "071",
@@ -6259,7 +6624,12 @@
       "name": "fraxure"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/axew.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "071"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "072",
@@ -6343,7 +6713,12 @@
       "name": "haxorus"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/fraxure.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "072"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "073",
@@ -6434,7 +6809,12 @@
     "produces": {
       "name": "Tronco pequeño",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/small-log.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "073"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "074",
@@ -6523,7 +6903,12 @@
       "name": "sliggoo"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/goomy.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "074"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "075",
@@ -6602,7 +6987,12 @@
       "name": "goodra"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/sliggoo.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "075"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "076",
@@ -6685,7 +7075,12 @@
       "name": "cramorant"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/goodra.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "076"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "077",
@@ -6768,7 +7163,12 @@
       "name": "pichu"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cramorant.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "077"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "078",
@@ -6847,7 +7247,12 @@
       "name": "pikachu"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pichu.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "078"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "079",
@@ -6926,7 +7331,12 @@
       "name": "raichu"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/palidachu.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "079"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "079",
@@ -7001,7 +7411,12 @@
       "name": "raichu"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pikachu.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "079"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "080",
@@ -7084,7 +7499,12 @@
       "name": "zubat"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/raichu.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "080"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "081",
@@ -7172,7 +7592,12 @@
       "name": "golbat"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/zubat.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "081"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "082",
@@ -7255,7 +7680,12 @@
       "name": "crobat"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/golbat.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "082"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "083",
@@ -7347,7 +7777,12 @@
       "name": "meowth"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/crobat.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "083"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "084",
@@ -7431,7 +7866,12 @@
       "name": "persian"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/meowth.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "084"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "085",
@@ -7514,7 +7954,12 @@
       "name": "psyduck"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/persian.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "085"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "086",
@@ -7593,7 +8038,12 @@
       "name": "golduck"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/psyduck.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "086"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "087",
@@ -7672,7 +8122,12 @@
       "name": "growlithe"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/golduck.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "087"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "088",
@@ -7760,7 +8215,12 @@
       "name": "arcanine"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/growlithe.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "088"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "089",
@@ -7848,7 +8308,12 @@
       "name": "farfetch-d"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/arcanine.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "089"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "090",
@@ -7935,7 +8400,12 @@
       "name": "grimer"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/farfetch-d.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "090"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "091",
@@ -8017,7 +8487,12 @@
     "produces": {
       "name": "Basura reciclable",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/recyclable-trash.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "091"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "092",
@@ -8099,7 +8574,12 @@
     "produces": {
       "name": "Basura reciclable",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/recyclable-trash.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "092"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "093",
@@ -8186,7 +8666,12 @@
       "name": "haunter"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gastly.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "093"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "094",
@@ -8278,7 +8763,12 @@
       "name": "gengar"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/haunter.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "094"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "095",
@@ -8365,7 +8855,12 @@
       "name": "voltorb"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gengar.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "095"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "096",
@@ -8453,7 +8948,12 @@
       "name": "electrode"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/voltorb.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "096"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "097",
@@ -8541,7 +9041,12 @@
       "name": "exeggcute"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/electrode.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "097"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "098",
@@ -8633,7 +9138,12 @@
       "name": "exeggutor"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/exeggcute.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "098"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "099",
@@ -8725,7 +9235,12 @@
       "name": "happiny"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/exeggutor.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "099"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "100",
@@ -8809,7 +9324,12 @@
       "name": "chansey"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/happiny.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "100"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "101",
@@ -8888,7 +9408,12 @@
       "name": "blissey"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/chansey.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "101"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "102",
@@ -8974,7 +9499,12 @@
     "produces": {
       "name": "Piedra",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/stone.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "102"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "103",
@@ -9053,7 +9583,12 @@
       "name": "electabuzz"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/elekid.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "103"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "104",
@@ -9137,7 +9672,12 @@
       "name": "electivire"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/electabuzz.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "104"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "105",
@@ -9225,7 +9765,12 @@
       "name": "lapras"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/electivire.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "105"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "106",
@@ -9308,7 +9853,12 @@
       "name": "munchlax"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lapras.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "106"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "107",
@@ -9392,7 +9942,12 @@
       "name": "snorlax"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/munchlax.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "107"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "108",
@@ -9476,7 +10031,12 @@
       "name": "spinarak"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/snorlax.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "108"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "108",
@@ -9555,7 +10115,12 @@
       "name": "spinarak"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/musgorlax.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "108"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "109",
@@ -9641,7 +10206,12 @@
     "produces": {
       "name": "Hilo",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/thread.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "109"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "110",
@@ -9727,7 +10297,12 @@
     "produces": {
       "name": "Hilo",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/thread.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "110"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "111",
@@ -9818,7 +10393,12 @@
     "produces": {
       "name": "Pelusa",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/fluff.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "111"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "112",
@@ -9909,7 +10489,12 @@
     "produces": {
       "name": "Pelusa",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/fluff.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "112"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "113",
@@ -9992,7 +10577,12 @@
       "name": "azurill"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ampharos.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "113"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "114",
@@ -10084,7 +10674,12 @@
       "name": "marill"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/azurill.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "114"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "115",
@@ -10176,7 +10771,12 @@
       "name": "azumarill"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/marill.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "115"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "116",
@@ -10263,7 +10863,12 @@
       "name": "wooper-de-paldea"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/azumarill.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "116"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "117",
@@ -10345,7 +10950,12 @@
     "produces": {
       "name": "Arcilla maleable",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/malleable-clay.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "117"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "118",
@@ -10440,7 +11050,12 @@
     "produces": {
       "name": "Arcilla maleable",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/malleable-clay.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "118"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "119",
@@ -10519,7 +11134,12 @@
       "name": "torchic"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/smeargle.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "119"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "120",
@@ -10603,7 +11223,12 @@
       "name": "combusken"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/torchic.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "120"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "121",
@@ -10695,7 +11320,12 @@
       "name": "blaziken"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/combusken.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "121"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "122",
@@ -10787,7 +11417,12 @@
       "name": "wingull"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/blaziken.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "122"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "123",
@@ -10879,7 +11514,12 @@
       "name": "pelipper"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/wingull.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "123"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "124",
@@ -10971,7 +11611,12 @@
       "name": "makuhita"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pelipper.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "124"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "125",
@@ -11059,7 +11704,12 @@
       "name": "hariyama"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/makuhita.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "125"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "126",
@@ -11147,7 +11797,12 @@
       "name": "absol"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/hariyama.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "126"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "127",
@@ -11226,7 +11881,12 @@
       "name": "piplup"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/absol.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "127"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "128",
@@ -11305,7 +11965,12 @@
       "name": "prinplup"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/piplup.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "128"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "129",
@@ -11393,7 +12058,12 @@
       "name": "empoleon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/prinplup.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "129"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "130",
@@ -11485,7 +12155,12 @@
       "name": "audino"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/empoleon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "130"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "131",
@@ -11564,7 +12239,12 @@
       "name": "trubbish"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/audino.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "131"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "132",
@@ -11643,7 +12323,12 @@
       "name": "garbodor"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/trubbish.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "132"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "133",
@@ -11729,7 +12414,12 @@
     "produces": {
       "name": "Basura reciclable",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/recyclable-trash.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "133"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "134",
@@ -11808,7 +12498,12 @@
       "name": "zoroark"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/zorua.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "134"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "135",
@@ -11896,7 +12591,12 @@
       "name": "minccino"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/zoroark.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "135"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "136",
@@ -11980,7 +12680,12 @@
       "name": "cinccino"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/minccino.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "136"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "137",
@@ -12063,7 +12768,12 @@
       "name": "grubbin"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cinccino.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "137"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "138",
@@ -12147,7 +12857,12 @@
       "name": "charjabug"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/grubbin.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "138"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "139",
@@ -12234,7 +12949,12 @@
       "name": "vikavolt"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/charjabug.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "139"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "140",
@@ -12321,7 +13041,12 @@
       "name": "mimikyu"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/vikavolt.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "140"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "141",
@@ -12404,7 +13129,12 @@
       "name": "pawmi"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mimikyu.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "141"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "142",
@@ -12488,7 +13218,12 @@
       "name": "pawmo"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pawmi.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "142"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "143",
@@ -12580,7 +13315,12 @@
       "name": "pawmot"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pawmo.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "143"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "144",
@@ -12667,7 +13407,12 @@
       "name": "tatsugiri-forma-curvada"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pawmot.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "144"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "145",
@@ -12750,7 +13495,12 @@
       "name": "ekans"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tatsugiri-droopy-form.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "145"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "145",
@@ -12833,7 +13583,12 @@
       "name": "ekans"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tatsugiri-stretchy-form.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "145"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "145",
@@ -12916,7 +13671,12 @@
       "name": "ekans"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tatsugiri-curly-form.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "145"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "146",
@@ -12995,7 +13755,12 @@
       "name": "arbok"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ekans.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "146"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "147",
@@ -13074,7 +13839,12 @@
       "name": "cleffa"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/arbok.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "147"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "148",
@@ -13153,7 +13923,12 @@
       "name": "clefairy"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cleffa.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "148"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "149",
@@ -13237,7 +14012,12 @@
       "name": "clefable"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/clefairy.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "149"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "150",
@@ -13325,7 +14105,12 @@
       "name": "igglypuff"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/clefable.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "150"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "151",
@@ -13408,7 +14193,12 @@
       "name": "jigglypuff"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/igglypuff.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "151"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "152",
@@ -13496,7 +14286,12 @@
       "name": "wigglytuff"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/jigglypuff.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "152"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "153",
@@ -13583,7 +14378,12 @@
       "name": "diglett"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/wigglytuff.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "153"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "154",
@@ -13672,7 +14472,12 @@
       "name": "dugtrio"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/diglett.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "154"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "155",
@@ -13755,7 +14560,12 @@
       "name": "machop"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dugtrio.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "155"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "156",
@@ -13834,7 +14644,12 @@
       "name": "machoke"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/machop.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "156"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "157",
@@ -13922,7 +14737,12 @@
       "name": "machamp"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/machoke.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "157"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "158",
@@ -14010,7 +14830,12 @@
       "name": "geodude"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/machamp.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "158"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "159",
@@ -14089,7 +14914,12 @@
       "name": "graveler"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/geodude.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "159"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "160",
@@ -14172,7 +15002,12 @@
       "name": "golem"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/graveler.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "160"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "161",
@@ -14259,7 +15094,12 @@
       "name": "magby"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/golem.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "161"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "162",
@@ -14332,7 +15172,12 @@
       "name": "magmar"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/magby.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "162"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "163",
@@ -14411,7 +15256,12 @@
       "name": "magmortar"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/magmar.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "163"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "164",
@@ -14494,7 +15344,12 @@
       "name": "bonsly"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/magmortar.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "164"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "165",
@@ -14573,7 +15428,12 @@
       "name": "sudowoodo"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/bonsly.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "165"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "166",
@@ -14657,7 +15517,12 @@
       "name": "murkrow"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/sudowoodo.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "166"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "167",
@@ -14749,7 +15614,12 @@
       "name": "honchkrow"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/murkrow.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "167"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "168",
@@ -14841,7 +15711,12 @@
       "name": "larvitar"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/honchkrow.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "168"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "169",
@@ -14928,7 +15803,12 @@
       "name": "pupitar"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/larvitar.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "169"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "170",
@@ -15015,7 +15895,12 @@
       "name": "tyranitar"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pupitar.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "170"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "171",
@@ -15107,7 +15992,12 @@
       "name": "lotad"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tyranitar.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "171"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "172",
@@ -15200,7 +16090,12 @@
       "name": "lombre"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lotad.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "172"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "173",
@@ -15288,7 +16183,12 @@
       "name": "ludicolo"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lombre.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "173"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "174",
@@ -15375,7 +16275,12 @@
       "name": "mawile"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ludicolo.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "174"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "175",
@@ -15458,7 +16363,12 @@
       "name": "torkoak"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mawile.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "175"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "176",
@@ -15537,7 +16447,12 @@
       "name": "kricketot"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/torkoak.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "176"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "177",
@@ -15621,7 +16536,12 @@
       "name": "kricketune"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/kricketot.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "177"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "178",
@@ -15700,7 +16620,12 @@
       "name": "chatot"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/kricketune.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "178"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "179",
@@ -15792,7 +16717,12 @@
       "name": "riolu"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/chatot.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "179"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "180",
@@ -15876,7 +16806,12 @@
       "name": "lucario"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/riolu.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "180"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "181",
@@ -15959,7 +16894,12 @@
       "name": "rotom"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lucario.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "181"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "182",
@@ -16042,7 +16982,12 @@
       "name": "larvesta"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/rotom.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "182"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "183",
@@ -16128,7 +17073,12 @@
     "produces": {
       "name": "Hilo",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/thread.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "183"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "184",
@@ -16223,7 +17173,12 @@
     "produces": {
       "name": "Hilo",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/thread.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "184"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "185",
@@ -16302,7 +17257,12 @@
       "name": "dartrix"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/rowlet.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "185"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "186",
@@ -16382,7 +17342,12 @@
       "name": "decidueye"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dartrix.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "186"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "187",
@@ -16474,7 +17439,12 @@
       "name": "scorbunny"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/decidueye.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "187"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "188",
@@ -16553,7 +17523,12 @@
       "name": "raboot"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/scorbunny.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "188"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "189",
@@ -16637,7 +17612,12 @@
       "name": "cinderace"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/raboot.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "189"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "190",
@@ -16725,7 +17705,12 @@
       "name": "skwovet"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cinderace.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "190"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "191",
@@ -16804,7 +17789,12 @@
       "name": "greedent"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/skwovet.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "191"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "192",
@@ -16883,7 +17873,12 @@
       "name": "rolycoly"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/greedent.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "192"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "193",
@@ -16966,7 +17961,12 @@
       "name": "carkol"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/rolycoly.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "193"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "194",
@@ -17053,7 +18053,12 @@
       "name": "coalossal"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/carkol.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "194"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "195",
@@ -17145,7 +18150,12 @@
       "name": "toxel"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/coalossal.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "195"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "196",
@@ -17228,7 +18238,12 @@
       "name": "toxtricity-forma-aguda"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/toxel.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "196"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "197",
@@ -17315,7 +18330,12 @@
       "name": "fidough"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/toxtricity-low-key-form.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "197"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "197",
@@ -17402,7 +18422,12 @@
       "name": "fidough"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/toxtricity-amped-form.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "197"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "198",
@@ -17486,7 +18511,12 @@
       "name": "dachsbun"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/fidough.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "198"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "199",
@@ -17574,7 +18604,12 @@
       "name": "charcadet"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dachsbun.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "199"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "200",
@@ -17653,7 +18688,12 @@
       "name": "armarouge"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/charcadet.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "200"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "201",
@@ -17736,7 +18776,12 @@
       "name": "ceruledge"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/armarouge.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "201"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "202",
@@ -17819,7 +18864,12 @@
       "name": "glimmet"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ceruledge.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "202"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "203",
@@ -17910,7 +18960,12 @@
     "produces": {
       "name": "Hierro",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/iron.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "203"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "204",
@@ -18001,7 +19056,12 @@
     "produces": {
       "name": "Hierro",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/iron.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "204"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "205",
@@ -18080,7 +19140,12 @@
       "name": "gholdengo"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gimmighoul.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "205"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "206",
@@ -18163,7 +19228,12 @@
       "name": "vulpix"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gholdengo.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "206"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "207",
@@ -18242,7 +19312,12 @@
       "name": "ninetales"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/vulpix.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "207"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "208",
@@ -18326,7 +19401,12 @@
       "name": "poliwag"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ninetales.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "208"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "209",
@@ -18405,7 +19485,12 @@
       "name": "poliwhirl"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/poliwag.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "209"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "210",
@@ -18484,7 +19569,12 @@
       "name": "poliwrath"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/poliwhirl.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "210"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "211",
@@ -18576,7 +19666,12 @@
       "name": "politoed"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/poliwrath.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "211"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "212",
@@ -18669,7 +19764,12 @@
       "name": "abra"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/politoed.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "212"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "213",
@@ -18753,7 +19853,12 @@
       "name": "kadabra"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/abra.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "213"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "214",
@@ -18832,7 +19937,12 @@
       "name": "alakazam"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/kadabra.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "214"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "215",
@@ -18917,7 +20027,12 @@
     },
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/alakazam.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "215"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "216",
@@ -18954,7 +20069,12 @@
       "name": "mr-mime"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mime-jr.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "216"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "217",
@@ -18995,7 +20115,12 @@
     },
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mr-mime.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "217"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "218",
@@ -19074,7 +20199,12 @@
       "name": "porygon2"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/porygon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "218"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "219",
@@ -19153,7 +20283,12 @@
       "name": "porygon-z"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/porygon2.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "219"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "220",
@@ -19232,7 +20367,12 @@
       "name": "dratini"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/porygon-z.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "220"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "221",
@@ -19316,7 +20456,12 @@
       "name": "dragonair"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dratini.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "221"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "222",
@@ -19400,7 +20545,12 @@
       "name": "dragonite"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dragonair.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "222"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "223",
@@ -19487,7 +20637,12 @@
       "name": "cyndaquil"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dragonite.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "223"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "224",
@@ -19566,7 +20721,12 @@
       "name": "quilava"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cyndaquil.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "224"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "225",
@@ -19650,7 +20810,12 @@
       "name": "typhlosion"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/quilava.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "225"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "226",
@@ -19738,7 +20903,12 @@
       "name": "misdreavus"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/typhlosion.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "226"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "227",
@@ -19822,7 +20992,12 @@
       "name": "mismagius"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/misdreavus.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "227"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "228",
@@ -19915,7 +21090,12 @@
       "name": "girafarig"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mismagius.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "228"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "229",
@@ -19998,7 +21178,12 @@
       "name": "farigiraf"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/girafarig.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "229"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "230",
@@ -20085,7 +21270,12 @@
       "name": "ralts"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/farigiraf.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "230"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "231",
@@ -20168,7 +21358,12 @@
       "name": "kirlia"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ralts.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "231"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "232",
@@ -20256,7 +21451,12 @@
       "name": "gardevoir"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/kirlia.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "232"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "233",
@@ -20348,7 +21548,12 @@
       "name": "gallade"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gardevoir.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "233"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "234",
@@ -20435,7 +21640,12 @@
       "name": "plusle"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gallade.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "234"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "235",
@@ -20514,7 +21724,12 @@
       "name": "minun"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/plusle.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "235"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "236",
@@ -20593,7 +21808,12 @@
       "name": "trapinch"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/minun.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "236"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "237",
@@ -20679,7 +21899,12 @@
     "produces": {
       "name": "Arcilla maleable",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/malleable-clay.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "237"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "238",
@@ -20766,7 +21991,12 @@
       "name": "flygon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/vibrava.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "238"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "239",
@@ -20853,7 +22083,12 @@
       "name": "swablu"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/flygon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "239"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "240",
@@ -20939,7 +22174,12 @@
     "produces": {
       "name": "Pelusa",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/fluff.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "240"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "241",
@@ -21029,7 +22269,12 @@
     "produces": {
       "name": "Pelusa",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/fluff.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "241"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "242",
@@ -21108,7 +22353,12 @@
       "name": "dusclops"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/duskull.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "242"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "243",
@@ -21187,7 +22437,12 @@
       "name": "dusknoir"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dusclops.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "243"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "244",
@@ -21270,7 +22525,12 @@
       "name": "beldum"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dusknoir.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "244"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "245",
@@ -21353,7 +22613,12 @@
       "name": "metang"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/beldum.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "245"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "246",
@@ -21436,7 +22701,12 @@
       "name": "metagross"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/metang.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "246"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "247",
@@ -21523,7 +22793,12 @@
       "name": "snivy"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/metagross.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "247"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "248",
@@ -21605,7 +22880,12 @@
     "produces": {
       "name": "Hiedra trenzada",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/braided-ivy.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "248"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "249",
@@ -21691,7 +22971,12 @@
     "produces": {
       "name": "Hiedra trenzada",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/braided-ivy.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "249"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "250",
@@ -21782,7 +23067,12 @@
     "produces": {
       "name": "Hiedra trenzada",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/braided-ivy.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "250"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "251",
@@ -21861,7 +23151,12 @@
       "name": "frogadier"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/froakie.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "251"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "252",
@@ -21945,7 +23240,12 @@
       "name": "greninja"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/frogadier.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "252"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "253",
@@ -22037,7 +23337,12 @@
       "name": "dedenne"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/greninja.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "253"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "254",
@@ -22120,7 +23425,12 @@
       "name": "noibat"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dedenne.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "254"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "255",
@@ -22203,7 +23513,12 @@
       "name": "noivern"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/noibat.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "255"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "256",
@@ -22290,7 +23605,12 @@
       "name": "rookidee"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/noivern.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "256"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "257",
@@ -22369,7 +23689,12 @@
       "name": "corvisquire"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/rookidee.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "257"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "258",
@@ -22448,7 +23773,12 @@
       "name": "corviknight"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/corvisquire.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "258"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "259",
@@ -22540,7 +23870,12 @@
       "name": "dreepy"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/corviknight.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "259"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "260",
@@ -22627,7 +23962,12 @@
       "name": "drakloak"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dreepy.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "260"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "261",
@@ -22714,7 +24054,12 @@
       "name": "dragapult"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/drakloak.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "261"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "262",
@@ -22806,7 +24151,12 @@
       "name": "sprigatito"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dragapult.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "262"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "263",
@@ -22890,7 +24240,12 @@
       "name": "floragato"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/sprigatito.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "263"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "264",
@@ -22969,7 +24324,12 @@
       "name": "meowscarada"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/floragato.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "264"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "265",
@@ -23056,7 +24416,12 @@
       "name": "wattrel"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/meowscarada.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "265"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "266",
@@ -23139,7 +24504,12 @@
       "name": "kilowattrel"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/wattrel.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "266"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "267",
@@ -23226,7 +24596,12 @@
       "name": "tinkatink"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/kilowattrel.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "267"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "268",
@@ -23319,7 +24694,12 @@
       "name": "tinkatuff"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tinkatink.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "268"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "269",
@@ -23402,7 +24782,12 @@
       "name": "tinkaton"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tinkatuff.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "269"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "270",
@@ -23485,7 +24870,12 @@
       "name": "aerodactyl"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tinkaton.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "270"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "271",
@@ -23568,7 +24958,12 @@
       "name": "cranidos"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/aerodactyl.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "271"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "272",
@@ -23647,7 +25042,12 @@
       "name": "rampardos"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cranidos.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "272"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "273",
@@ -23733,7 +25133,12 @@
     "produces": {
       "name": "Piedra",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/stone.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "273"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "274",
@@ -23816,7 +25221,12 @@
       "name": "bastiodon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/shieldon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "274"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "275",
@@ -23906,7 +25316,12 @@
     "produces": {
       "name": "Piedra",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/stone.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "275"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "276",
@@ -23989,7 +25404,12 @@
       "name": "tyrantrum"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tyrunt.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "276"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "277",
@@ -24079,7 +25499,12 @@
     "produces": {
       "name": "Piedra",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/stone.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "277"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "278",
@@ -24162,7 +25587,12 @@
       "name": "aurorus"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/amaura.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "278"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "279",
@@ -24252,7 +25682,12 @@
     "produces": {
       "name": "Piedra",
       "iconUrl": "https://cdn.pokopiapi.com/images/materials/stone.png"
-    }
+    },
+    "dex": {
+      "kind": "regular",
+      "number": "279"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "280",
@@ -24331,7 +25766,12 @@
       "name": "vaporeon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/eevee.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "280"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "281",
@@ -24406,7 +25846,12 @@
       "name": "jolteon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/vaporeon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "281"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "282",
@@ -24481,7 +25926,12 @@
       "name": "flareon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/jolteon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "282"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "283",
@@ -24556,7 +26006,12 @@
       "name": "espeon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/flareon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "283"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "284",
@@ -24631,7 +26086,12 @@
       "name": "umbreon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/espeon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "284"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "285",
@@ -24706,7 +26166,12 @@
       "name": "leafeon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/umbreon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "285"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "286",
@@ -24781,7 +26246,12 @@
       "name": "glaceon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/leafeon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "286"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "287",
@@ -24856,7 +26326,12 @@
       "name": "sylveon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/glaceon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "287"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "288",
@@ -24931,7 +26406,12 @@
       "name": "kyogre"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/sylveon.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "288"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "289",
@@ -24992,7 +26472,12 @@
       "name": "raikou"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/kyogre.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "289"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "290",
@@ -25058,7 +26543,12 @@
       "name": "entei"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/raikou.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "290"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "291",
@@ -25124,7 +26614,12 @@
       "name": "suicune"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/entei.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "291"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "292",
@@ -25190,7 +26685,12 @@
       "name": "volcanion"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/suicune.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "292"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "293",
@@ -25260,7 +26760,12 @@
       "name": "articuno"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/volcanion.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "293"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "294",
@@ -25330,7 +26835,12 @@
       "name": "zapdos"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/articuno.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "294"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "295",
@@ -25400,7 +26910,12 @@
       "name": "moltres"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/zapdos.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "295"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "296",
@@ -25470,7 +26985,12 @@
       "name": "lugia"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/moltres.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "296"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "297",
@@ -25535,7 +27055,12 @@
       "name": "ho-oh"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lugia.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "297"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "298",
@@ -25600,7 +27125,12 @@
       "name": "mewtwo"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ho-oh.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "298"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "299",
@@ -25666,7 +27196,12 @@
       "name": "mew"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mewtwo.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "299"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "300",
@@ -25729,7 +27264,12 @@
     },
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mew.png",
-    "produces": null
+    "produces": null,
+    "dex": {
+      "kind": "regular",
+      "number": "300"
+    },
+    "contentSource": "base"
   },
   {
     "localNumber": "E001",
