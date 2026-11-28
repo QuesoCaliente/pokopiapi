@@ -1,6 +1,6 @@
 {
   "name": "pokopiaapi",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Pokopia API",
   "main": "dist/index.js",
   "scripts": {
